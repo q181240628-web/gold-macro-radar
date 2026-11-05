@@ -1,0 +1,51 @@
+name: 黄金宏观数据更新与网页发布
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'  # UTC 每小时第17分钟；GitHub可能延迟或跳过
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: gold-monitor-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 获取项目
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Python环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 采集官方数据并生成判断
+        run: python scripts/update.py
+      - name: 写回历史记录
+        run: |
+          git config user.name "gold-radar-bot"
+          git config user.email "gold-radar-bot@users.noreply.github.com"
+          git add data/latest.json data/history.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh public gold macro data"
+            git push
+          fi
+      - name: 配置GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: 上传静态网页及数据
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - name: 发布网站
+        id: deployment
+        uses: actions/deploy-pages@v4
