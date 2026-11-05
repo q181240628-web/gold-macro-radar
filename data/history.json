@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T12:35:28.870219+00:00",
+  "generated_at": "2026-11-05T12:52:19.871589+00:00",
   "events": [
     {
       "id": "rss:6ae8c597e1057b47b5",
@@ -80,6 +80,19 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:3e1edbdd802b9d1255",
+      "title": "Gold Advances Above $4,125 as US Election Outcome Sends Dollar and Bond Yields Lower - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvS25vcUxqajAxcExwRUJEM1pRSTA1cnpwVmF2T2ZhUkdfMVdZS2V6Z3VtVXNoN0FhdTJ6anN1SUJ4VDdhTHFuYy1PSXZTVmZBcG82TUxlREtOZF92UWY4djBhTVZtWjVYYnNIZTBIZWxYcm5KU1FjVHNFSDdfZDQ?oc=5",
+      "published_at": "2026-11-05T10:39:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:3c897264e9e6da8e2f",
       "title": "Jobs Report vs. Midterms in the Fight to Steer Gold and the Dollar - StoneX",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnRwMHMxUkk1Uk10X2l4bUxUYW5HWFdSVzZxcUhZOE1QUU1NUjNuaUduWnVnSmNtSERBWWloenJXeGV2MjhWWTlCYnZUS1FRTHp5YXBGM0RPelJmbEFnaEkyUHNQbHJuYUxlSTFsNEtZX1VPX3NVaWpac2ZqYm9wQVAya0s3S2ptenFIWjFRTnRZM0RKdjVtZXVmak82SUxnYk5v?oc=5",
@@ -149,6 +162,19 @@
       "title": "Gold surges past $4,130 as US election sends dollar, Treasury yields tumbling - Investing.com Canada",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVUhlSDcxaHBJRHdKU3FTV18tbTRfQV9wR2lyM09KQjZyUzBnT3YzXzdsTzg2VjVrSXpOU2FpYmxUc0xZOFJ6MkxyeG1GYXkwUTlwdFpBVEhwNDFRdW1ZcjNUVTE2YXFjZENmeElVWGt0TEhjLTNjY2FGSm5aaXhCQ0hweTNBNjR0c1c1TnBEeDhCY096TWFpNUZ6SF9tSW50VmtvT2kzc2tvbFRsdmtSZXdTa3Qwalp6Ul81bkRZRmhWblpkc0hrVw?oc=5",
       "published_at": "2026-11-05T08:00:51+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:9ca35c2a4fe33ed54e",
+      "title": "Gold hits a two-week high as dollar, Treasury yields ease after U.S. midterm elections - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRC1rSUhra2M4NmUzNzljWFY3cmlvZjNRUHIzd1M1YWw2R1JWZUxPS1VyT3pwRHhVbWNyRVRfdUpMb2RWWWh3RWdPLVVzLXcxWjJ2dTc1anVpUERmNVJjcFVBM04xTDRXQmZfenRlYVJVQ0ZncVlYLXJ1b25qRDhLd1RhNUJSRE9namZZYkhLNFlubFFYQjVRdHUtVm1ZVVM1V3ZHRTlmNNIBpwFBVV95cUxNRC1rSUhra2M4NmUzNzljWFY3cmlvZjNRUHIzd1M1YWw2R1JWZUxPS1VyT3pwRHhVbWNyRVRfdUpMb2RWWWh3RWdPLVVzLXcxWjJ2dTc1anVpUERmNVJjcFVBM04xTDRXQmZfenRlYVJVQ0ZncVlYLXJ1b25qRDhLd1RhNUJSRE9namZZYkhLNFlubFFYQjVRdHUtVm1ZVVM1V3ZHRTlmNA?oc=5",
+      "published_at": "2026-11-05T05:03:03+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
