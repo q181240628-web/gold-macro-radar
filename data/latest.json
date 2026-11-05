@@ -1,0 +1,8 @@
+{
+  "status": "not_initialized",
+  "generated_at": null,
+  "factors": [],
+  "news": [],
+  "summary": {"signal": "unknown", "reason": "尚未运行数据更新：部署后从GitHub Actions手动启动一次。"},
+  "errors": []
+}
