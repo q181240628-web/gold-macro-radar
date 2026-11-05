@@ -1,6 +1,13 @@
 name: 黄金宏观数据更新与网页发布
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/refresh.yml'
+      - 'scripts/**'
+      - 'assets/**'
+      - 'index.html'
   workflow_dispatch:
   schedule:
     - cron: '17 * * * *'  # UTC 每小时第17分钟；GitHub可能延迟或跳过
