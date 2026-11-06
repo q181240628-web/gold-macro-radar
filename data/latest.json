@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-05T20:40:20.842840+00:00",
+  "generated_at": "2026-11-06T01:33:30.585151+00:00",
   "factors": [
     {
       "id": "DFII10",
       "name": "美国10年期TIPS实际收益率",
       "category": "real_rate",
-      "date": "2026-11-03",
-      "comparison_date": "2026-10-27",
-      "value": 2.65,
-      "previous": 2.64,
+      "date": "2026-11-04",
+      "comparison_date": "2026-10-28",
+      "value": 2.64,
+      "previous": 2.67,
       "unit": "%",
-      "delta": 0.01,
+      "delta": -0.03,
       "delta_unit": "百分点",
       "comparison": "较前5期",
       "signal": "neutral",
@@ -28,10 +28,10 @@
       "id": "DGS2",
       "name": "美国2年期国债收益率",
       "category": "nominal_rate",
-      "date": "2026-11-03",
-      "comparison_date": "2026-10-27",
-      "value": 4.61,
-      "previous": 4.7,
+      "date": "2026-11-04",
+      "comparison_date": "2026-10-28",
+      "value": 4.58,
+      "previous": 4.67,
       "unit": "%",
       "delta": -0.09,
       "delta_unit": "百分点",
@@ -50,19 +50,19 @@
       "id": "DGS10",
       "name": "美国10年期国债收益率",
       "category": "nominal_rate",
-      "date": "2026-11-03",
-      "comparison_date": "2026-10-27",
-      "value": 4.95,
-      "previous": 4.99,
+      "date": "2026-11-04",
+      "comparison_date": "2026-10-28",
+      "value": 4.9,
+      "previous": 5.05,
       "unit": "%",
-      "delta": -0.04,
+      "delta": -0.15,
       "delta_unit": "百分点",
       "comparison": "较前5期",
-      "signal": "neutral",
-      "reason": "较选定基准变动未达到观察阈值，不表示没有市场影响。",
+      "signal": "bull",
+      "reason": "收益率回落通常降低持金机会成本；需核对美元及预期是否已定价。",
       "confidence": "中",
       "weight": 3,
-      "material": false,
+      "material": true,
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
@@ -88,7 +88,7 @@
       "url": "https://fred.stlouisfed.org/series/DTWEXBGS",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 6
+      "freshness_days": 7
     },
     {
       "id": "DCOILWTICO",
@@ -110,7 +110,7 @@
       "url": "https://fred.stlouisfed.org/series/DCOILWTICO",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 2
+      "freshness_days": 3
     },
     {
       "id": "VIXCLS",
@@ -132,18 +132,18 @@
       "url": "https://fred.stlouisfed.org/series/VIXCLS",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 2
     },
     {
       "id": "T10YIE",
       "name": "10年期通胀盈亏平衡率",
       "category": "breakeven",
-      "date": "2026-11-04",
-      "comparison_date": "2026-10-28",
-      "value": 2.26,
-      "previous": 2.38,
+      "date": "2026-11-05",
+      "comparison_date": "2026-10-29",
+      "value": 2.24,
+      "previous": 2.35,
       "unit": "%",
-      "delta": -0.12,
+      "delta": -0.11,
       "delta_unit": "百分点",
       "comparison": "较前5期",
       "signal": "mixed",
@@ -176,7 +176,7 @@
       "url": "https://fred.stlouisfed.org/series/DFEDTARU",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 0
+      "freshness_days": 1
     },
     {
       "id": "ICSA",
@@ -198,7 +198,7 @@
       "url": "https://fred.stlouisfed.org/series/ICSA",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 5
+      "freshness_days": 6
     },
     {
       "id": "UNRATE",
@@ -220,7 +220,7 @@
       "url": "https://fred.stlouisfed.org/series/UNRATE",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 65
+      "freshness_days": 66
     },
     {
       "id": "PAYEMS",
@@ -242,7 +242,7 @@
       "url": "https://fred.stlouisfed.org/series/PAYEMS",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 65
+      "freshness_days": 66
     },
     {
       "id": "CPIAUCSL",
@@ -264,7 +264,7 @@
       "url": "https://fred.stlouisfed.org/series/CPIAUCSL",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 65
+      "freshness_days": 66
     },
     {
       "id": "PCEPILFE",
@@ -286,10 +286,88 @@
       "url": "https://fred.stlouisfed.org/series/PCEPILFE",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 65
+      "freshness_days": 66
     }
   ],
   "news": [
+    {
+      "id": "rss:6a5f3f4623ffb5d10c",
+      "title": "Gold hits over two-week high of US$4,146.63/oz on Nov 5 - Nation Thailand",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BTnlaT2FUVV96SEtieW1nR0ZELVhWc1Q2dTRFYkdtMnN5QjZUM2tCcmpHa25sQ3FIVUFfd0FiQU1NTmlIbmU5ZWhZbmJ6SWtOdWl3VzdPdjhjUlNzOE9fMlZKU2hFRTg4bW5PVzZFZWcwUEZ1b1E?oc=5",
+      "published_at": "2026-11-06T00:22:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:40c09c90ef00752a56",
+      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3hSNk9RRDhKMmNvdkhnQnN4VkVLaUgwUGJ1dGc5czdxeWI1cHBVNVIwSHlMUWZQekRtd3Q2S2NxVGxwWVU0RUhma1kzLVNoal9BeUllSzMwbUZqaklRRDdKZUd6Q0tVXzBTQ2Y4UEtyUGZodXZHYXBtS1hLYms0S28ycVBtWUpET0JXOHpRRVNmOUx4UXBjYWFSV1N3Y0xmUkRaQkRZV2VfRjFCNzFqdldFZHQ?oc=5",
+      "published_at": "2026-11-06T00:09:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:dd98b48adff4fb88c5",
+      "title": "Gold rises to near $4,100 ahead of US NFP data - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDhaSDh2bEFpeFJUWjBhOHJWNTdBRVlYaERsWVQ1Nl84cGVLTTdOUTJOaGtqTzhWbHh3TE1TTUNwc3NnOVkwV3VmNjd6UklFeFoyR1lUM3M2Q2pwZXlBQ2ZHN21uRzVENzE4TW56al9VNW9yRXdXWnBFdmRWbFFjNjFFOHNDRFU1Z2ZFaGN3ekRnQQ?oc=5",
+      "published_at": "2026-11-05T23:30:12+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:3f0481e34ce6492a16",
+      "title": "Goldman Sachs trims gold forecasts as Fed stays hawkish - Mining Weekly",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3dKVlItQkhBYUg5Wnh5SHJJSjdnSUZMODB6SUlwZXg5OFpPMDR4cXVabV9EU0lUcXAtVkNQYTN2NGktMnhPZzNEREZuZjk1ZWVubmctUEdVYWJmc3doUnJ3TGUya09Yekw0emhreE5mRTJxVTdtU3pvVGVNMUlGc3l4R3Z6QmdsMmU3WFFxVm5EeHpxN05HUDhlalpDLWtLeTRjZjZ3?oc=5",
+      "published_at": "2026-11-05T22:31:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:421be4a1839fcbbc8b",
+      "title": "Gold climbs to two-week high as dollar, yields weaken (GLD:NYSEARCA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkE1cF9WMFVWYmZMOWJBUzNXM1hlM2VURHZjVHZua29xLXdzdEUxWlBtN1hjb0g4Q1BnZmlpbXd3Q2dtYnI1V3lsclA3QnpvQnd3dDVjYXpBRUI3aXRrUjJWaWpSM2NsY2ZHY295d1l3MVZrbk03cGpzbHpWY1RLemRSQmhPczZ0c005QzhvLUYwelU4?oc=5",
+      "published_at": "2026-11-05T22:20:08+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:913052575ee513d922",
+      "title": "Gold holds gains, silver slips as Wall Street plunges, Fed hike bets ease - Kitco PM Report - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdktNV1ItcEw3anlLMXJFSHJGbk9tQ01jMFV1a2tJTVRxZDRlejVEWmFTMWw3T1ZvLWc1LVpNYk9jSHRtcEh6MWJHU0lOZE5PVkpPNm1oYzRUeTdrOUc0U1hKeXg0MWdvUDNwTjJKb09XQV9ZX0QteXl3Z2VnTUhsQUZtRE5abzV1dll3QURpdHZkajVfVFUyWnktNFl2dGdoSlozNk1Xby14Nk1fczlpakEtTlpKTVhKdHFPdQ?oc=5",
+      "published_at": "2026-11-05T22:12:40+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
     {
       "id": "rss:80d8053e55f3743671",
       "title": "Gold rallies above $4,100 as NASDAQ 100 crashes, December hike bets fade - FXStreet",
@@ -304,23 +382,10 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:dbbfec8be2f7b045bc",
-      "title": "Gold rallies as Oil tumbles: A new leading correlation? - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWHJ5bUhIVXVwLW9aYTdfSU9TYVJUOFN0Sm81aC1jeExSNEd0VkFUb1NsSVZ4aEZpaGR4OGcyVGJBYXBoTkpmMzdiZ0N0S2VkeEI2eUdlWF9hWlMyVFl6My1tMmEwZUhkWmtPXzZCemhsZ0V5SnUtUmxoV1NrYm9DcEVKUzdWc2ZTbW1pdVAwT2dMT2hIa0Zmc1JOS0ZTU3JyalE?oc=5",
-      "published_at": "2026-11-05T17:24:16+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "mixed",
-      "reason": "油价或供给新闻的黄金传导取决于通胀预期与实际利率。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
       "id": "rss:ebcd2c803270a84c4e",
       "title": "Gold Rebounds As The Dollar And Yields Cool Off - Finimize",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVJEZG9nOE5ySmRGRGdBcXBxV01pUTlKeGVjNFVhMENsd01ERlJEZmZpNFQyTDFFZkx0MGdwaXliUVlDLVVmSV9uRF9ZakwxbnEtWVFYUjh4eGxHZmNvcjF0c2FqTXVLakgwMDljRzJIY1ZiRy1CNVhIVkRKZWN5RTd6b3A?oc=5",
-      "published_at": "2026-11-05T16:38:03+00:00",
+      "published_at": "2026-11-05T17:38:03+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -369,14 +434,14 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:d265a7be771f8454fc",
-      "title": "Gold Rallies as Dollar, Treasury Yields Soften after US Midterm Results - ASHARQ AL-AWSAT English",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTJWNUtORXhZbVRWdnBaLWUzS291M21hamw3MWpreFBBUVQtWUZWSjNWR3pIdkxtR2k5OXpFcXpoYkpKQ2tRVWJfMFB4U1ZORy1teHZEZWFCbUVXR1FmamZmckR4WkJ2VlE5bWV5QTZPbUFueHI5WF9RdUdGblVsbWNlaXBBTk00cGtRVGgzaWxGTHp3ZjBCZHBpMjFUVXh3dHBSWmxXWXhYQVZYbktHNw?oc=5",
-      "published_at": "2026-11-05T14:22:46+00:00",
+      "id": "rss:1719e83ac9f215668a",
+      "title": "Gold hits 2-week high as dollar, yields, oil fall after US midterms - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmJWU0stNzd5S1VxemhoU0E2cW1EUk1HZzlFUGhYRnk5TXJTUjVQR1FOMzFiTEwxYy1qT0VLd0ZYYm1QaXpxLXRyVENUeGM1OHVINlFZdng1RFhzVDFHR1VxX0dZZUZIQnZzeU5fWEFHYTJqQ1lpOGdCQnNObVN5dWMxRGwtY0diY1VfaWdoSFFwUTVXNlN3aHlCdklVSmpoaUlqa2Y5MGYtWlRIN1AwYmVKOA?oc=5",
+      "published_at": "2026-11-05T14:04:21+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "signal": "mixed",
+      "reason": "油价或供给新闻的黄金传导取决于通胀预期与实际利率。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -386,19 +451,6 @@
       "title": "Gold climbs above $4,100 as falling yields, softer labor costs support bullion - Kitco AM Report - Kitco",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQV9YbzIxUFFZcGF6M3U2Q2NBUkNUckVoSHBXbHZEVXVabldjcFpyYW9oQ0tZazZMNnV1V3JWLW1EV0pSSUp5UmVFOFNQY25UdGRRVGZJUWtzNG5KLWlvUDlJcGF4dm5tTE5IV0VaUk9PWWpWcHNpVnlNYXZwRnhhUnhqLTUtSlVuVDBxem1Pbmd1T1BUOVlSbmo3TmdoeEFuTWNlOHh1MWNsTjY2dVpvSHR0eVNXUGhCenc?oc=5",
       "published_at": "2026-11-05T13:53:31+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:6e75dd1622d9b1b0f5",
-      "title": "Gold gains amid softer dollar, Treasury yields after U.S. midterms By Investing.com - Investing.com Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWZCa2tGX1Q5N1Z5Qk4wMW9BXzd5X2Vsd0RQSVlFbkFGLTF0b0RoX1lSYlBVTTVXMU0xYklqU2tqTkVpX29hemV2aFZMcmtxS2lsdEpqOTljNHM3U0xubWt6bHd2dXdxRVVydk1zcF80LVNNWklYbTh1SXRxd2MxZG1OUThOaUNYYnUyR1ZlRFNURzJPRktmbkZwVmlSQmhMeGJwYy1CM01DeXRSSGZaSGt5VmtsVk5sdGlqWlRpbG5waVdPMnRWVw?oc=5",
-      "published_at": "2026-11-05T13:19:07+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -460,32 +512,6 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:09e910faded0a16da5",
-      "title": "Gold Forecast: What’s Next After Its Biggest Daily Gain Since August? - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeG1vTUk5M1JBNUJlZ0VkZXY5b1lpMkl5UWllNDROLWZIWXhVWER6d2tkXzVlV0pYMnFOX1pHcnZ1dGRya1FiTDc2dGRYbGNYRm5UZm9SR2JJMTBPR1dsTFdiMWEtVUlpZmd4ZE9PazhWMGlUYjBHNENVdnNpaWU3YnM5YmlqYlZtaVdEeldLXzVfdEtMaDJzVXlBS2VieDdWWDhYazh6N3NkYkh5N1I3VlhGek1hUHFw?oc=5",
-      "published_at": "2026-11-05T08:25:04+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:ef035a982186521460",
-      "title": "Gold Holds Firm Above $4,100 as Dollar & Yields Soften - TradingPedia",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVNLclZHUXZHdjA2LUdmTUxqYlNBaFZZYmR6dEtQS0FSZXRZYnRkS25tbTJRbzlaS3hLX0VhbzZUcEVNcHlOcGdfMnNtRE5KbHJEU2lUQWk2OFBKN2pFNWg5dVVwXy1HMkxhMlEyd1V3OWtmU3htNTN2T19pelNadzVxTFo1cDBKeFFFNGdlOENYb0dFbHc?oc=5",
-      "published_at": "2026-11-05T08:12:45+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
       "id": "rss:1d58e72d8ff9c732bc",
       "title": "Gold Extends Rebound Above $4,100 as Dollar and Yields Decline - Energy Connects",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnNUUXgzSjNLTjBDWnMweWFaa01OMzVqQV9MWHNaeVNMSVFqVlNsVW03RzZPOGFaZ1FlVV9fRXVfNzZGVkM2aWhZU2l0Ny1KMFR6eDdkam9TUEI4NXZneEF3YjU3WEJsWVhJd3NMdExBT0Z3QVRlVU85OE5zMEZCalJJc1NROGh0Uk9OamZkSkMwTUFvbW5aY0NDN0xySFJnM0o5YXZwb01uRUhJWDhoSF9OY1R1Ymc?oc=5",
@@ -500,22 +526,9 @@
     },
     {
       "id": "rss:1769cd4cad19e84e3e",
-      "title": "Gold hits 2-week high as dollar, oil, yields fall after U.S. midterms - CNBC",
+      "title": "Gold at more than two-week high as dollar, yields weaken; U.S. payrolls data awaited - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0lNbWJsNm9BQkZObjdwTWNBbTQwd093S1c1dV9PTjZmNEQxVmtwNTZwQUROOXJTRFJndXVzVUJJMGloUGdsTjhfN3ctWTdrWFFvME1RbU10OU9MRjFsVElxd0djQTh6YzVKRVhURjA2U1haNEE3ZlVsSXo0VUxNS2F6cnNvQ2RVc0psX3dLck1iNklSLTdRLVE1ZWNSZ2x3MVHSAacBQVVfeXFMTUQta0lIa2tjODZlMzc5Y1hWN3Jpb2YzUVByM3dTNWFsNkdSVmVMT0tVck96cER4VW1jckVUX3VKTG9kVllod0VnTy1Vcy13MVoydnU3NWp1aVBEZjVSY3BVQTNOMUw0V0JmX3p0ZWFSVUNGZ3FZWC1ydW9uakQ4S3dUYTVCUkRPZ2pmWWJISzRZbmxRWEI1UXR1LVZtWVVTNVd2R0U5ZjQ?oc=5",
       "published_at": "2026-11-05T05:03:03+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "mixed",
-      "reason": "油价或供给新闻的黄金传导取决于通胀预期与实际利率。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:36f0eaea6359f2b73c",
-      "title": "Gold Price Forecast: XAU/USD extends rally as Democrats’ victory weakens US yields - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ0RyZVZVbS0wT0JnSXhHYU9NT1Yxd0gxTVBkV2g5Y0toYXNtcEZqZnlES0I5ZmhIdnJyR1V6ZlYtakJhc1BBRUx0VFpKcWFZeVpVRjB5NFFQXzgzR1dlNTJNQXJLUTdYNzhwQk50TlhFQWEzeEE2V0RWdU1OdDZmZTBDMFU1OGtEd20tSVBtOXdaT09xYkF4NTZ4a1J5bTFBaHR2X1JuYzR6UWg5UHVSdFppbFJVRWFybWpLdnNucXJiMnVEeUE?oc=5",
-      "published_at": "2026-11-05T03:49:39+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -538,23 +551,10 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:bcfd19bd696b5f9252",
-      "title": "Gold gains as dollar steadies, Treasury yields dip amid U.S. midterms fallout - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1MxRGVnd2pXLXhLV1VsSDhRV3JNUlQycWZBa1BjOUZDRElvcUVTX1VidjFFRXBZMUdGZ2MxdGMwWTd3ZlNfeS13ZXBDTFVjU1FvQnB2QUVCeU03WU1aWnFoZHNxejRUWlhQN1FfYkFfbU1TZ0Q2VU9mOHJRVktsazNjMl9mc3JYUHpuLUJqYk9udUtzRlpPOExtZHRXQVl4Q3g4WkZFQUJnQ1F4VmgyNHJTMmJwYlFvc1p4a0tYcHhKQkItVGdiMmNn?oc=5",
-      "published_at": "2026-11-05T02:05:48+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:78951f0b1d664a8aba",
-      "title": "The dollar decides: What the midterm rally in gold and silver says about the next turn - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTVLZkxYVUdZRGVjb0F6dDg1MnpUcWNPdktvWVBiSC1qUFJUMkQ3TTNaWlNCUExESFVaNlVlaDZaN0xRZ3ZPbHBjSnFrd2tDemV5NWc4SWtYaGt3eVJ5N0JZbE9lcTFTS3V5V1J0d0plU2JlTUJqRnoxVWphU2R5SEpxNWlQelE5YWtvV0x3bXZHNGhKRXR2U3YwYzBWYm5saE9EUmZDLUVyX0dkQlVpOQ?oc=5",
-      "published_at": "2026-11-04T23:53:18+00:00",
+      "id": "rss:5df91a3fa01f738a03",
+      "title": "Gold gains as dollar steadies, Treasury yields dip amid U.S. midterms fallout - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGVmVFZuV1VyZzZSenl0Mnc0TGNGbEFHOTk1dU8xY0N5QXc3T25HWXY2S01uUkZ5UVpSVkl4VXJwazNSS1BjVkJLVmFyLXBDaFBxR3p3c092aGJKSERHenhycUpMd0tIVVFhTDd1UTZLcTduNUY5RWs5dkJaSWFDbktyczVua0ZuZVA3NkxQVVdsbXZ2a0FVa2xhajc?oc=5",
+      "published_at": "2026-11-05T02:45:07+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -617,9 +617,9 @@
     }
   ],
   "summary": {
-    "signal": "unknown",
-    "reason": "关键市场因子尚不足两个显著有效观测，不能确认共同方向。",
-    "bull_weight": 4,
+    "signal": "bull",
+    "reason": "仅从已抓取到的利率与美元方向看，短线更偏多；非涨幅预测。",
+    "bull_weight": 7,
     "bear_weight": 0,
     "basis": "已抓取的利率和美元历史变动，不包含市场一致预期"
   },
