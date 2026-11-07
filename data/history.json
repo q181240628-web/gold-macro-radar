@@ -1,11 +1,24 @@
 {
-  "generated_at": "2026-11-07T16:26:23.695164+00:00",
+  "generated_at": "2026-11-07T20:53:08.023292+00:00",
   "events": [
     {
       "id": "rss:35bd10b208c16563dc",
       "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
       "published_at": "2026-11-07T14:51:46+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:ca74818b637efad5d6",
+      "title": "Rhona O’Connell Examines Gold’s Crosscurrents - Medium",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFczT044TEVJYkNyUWhxNjV6MkJBbFJMd3d6SmR3OFlJZnA2Szk5WWZYTEZ5NFpHYWdqU3haQV9FcTM1UVpVV2F6eURYWUNnTjVRQUFpaFJhcy1VVjA1MW1HSnoxanU2Y1cyeDE4T29wTTFTSkNYaXE0MTRvWG1LYkxhRlBSVUhveXdpNk1aTm1KX3JDcjJFck02dlU?oc=5",
+      "published_at": "2026-11-07T11:31:01+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -67,9 +80,9 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:43dc0980849b61a5e5",
-      "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTndsUE1tOGJTWUNmU0ZWZE9rTmN2alVBZGpnRTFpQk1lZTZXbVU1U2FOdzZLRENXMmhiazlNVEthb2xWdjBXNndMWWlJR1pwYUFIMVVNaklHY2cxNGNUNkhSZ2VBRDUyTG10dnVWNlBicEQwTTBLdGQ5d2VjNllCRGI4RHNNN2dKcmtqRzI0X25uVG5LWDRWU0VUTDBVZG9TZVFEa3NXcldDdXNpdDhQOFRxcTVLYzd0b09IRGZWVXBTWmpWeXJJYXFpUXdHdUpfSVE?oc=5",
+      "id": "rss:a226b928024a0bb4c7",
+      "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields (GLD:NYSEARCA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckVmaldUY3J5cnRNbEhvOUE2NEFpaWRYbTRyOWh6ODctQUpPOEVXSE80d3d4MFJHRVRUQVkyZmhKdXluNlZ2R3N6TndWZlh0SDhGM21vdzIxMkJwLVEzRUVSby0tNFFHWFRUWnV3cm16c1o5alo2U05pMHdiVnBPeDV4Tkd3SGVKWnRkdmZybWxib3hqeVBYak0wYkhKU0tlWjN3OG5NYXlVbVFWUUUw?oc=5",
       "published_at": "2026-11-06T22:45:20+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
@@ -80,9 +93,9 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:a226b928024a0bb4c7",
-      "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields (GLD:NYSEARCA) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckVmaldUY3J5cnRNbEhvOUE2NEFpaWRYbTRyOWh6ODctQUpPOEVXSE80d3d4MFJHRVRUQVkyZmhKdXluNlZ2R3N6TndWZlh0SDhGM21vdzIxMkJwLVEzRUVSby0tNFFHWFRUWnV3cm16c1o5alo2U05pMHdiVnBPeDV4Tkd3SGVKWnRkdmZybWxib3hqeVBYak0wYkhKU0tlWjN3OG5NYXlVbVFWUUUw?oc=5",
+      "id": "rss:43dc0980849b61a5e5",
+      "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTndsUE1tOGJTWUNmU0ZWZE9rTmN2alVBZGpnRTFpQk1lZTZXbVU1U2FOdzZLRENXMmhiazlNVEthb2xWdjBXNndMWWlJR1pwYUFIMVVNaklHY2cxNGNUNkhSZ2VBRDUyTG10dnVWNlBicEQwTTBLdGQ5d2VjNllCRGI4RHNNN2dKcmtqRzI0X25uVG5LWDRWU0VUTDBVZG9TZVFEa3NXcldDdXNpdDhQOFRxcTVLYzd0b09IRGZWVXBTWmpWeXJJYXFpUXdHdUpfSVE?oc=5",
       "published_at": "2026-11-06T22:45:20+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
@@ -175,6 +188,19 @@
       "title": "Gold dives below $4,100 as blowout NFP underpins Fed hike odds - FXStreet",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEVMS3FrcWJxVmh1WTFxdlhieWtrMGRab3Q5UzEweDFwMklMQjVyU1JZTzF0X18zVEhmQlFSR21LUlE1MlhscFNlMF85ZGFaTVV6MjRJLUpoa2xrUW53eWNTaTlvakp5ZXlFY3hBaVR3cmhSNkstNGJmYVNuUVpSVWI1ejBJelhjR2RMdEZHUkFmeFJYS0ZiOEI1aGYwX3ZoQTdNdnZqNA?oc=5",
       "published_at": "2026-11-06T18:39:42+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:8d247b9750365ad3f8",
+      "title": "META_TITLE_QUOTE - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LRXk3WmZ5Y1MwZVR2TUhJNEJYakk2Z3ZPbHkyWklVNkdJTnB3bjBpb0ctRzhrUzNhUmstaFJfUkJ0SVZ3VmRGTVJGS3F3aG95?oc=5",
+      "published_at": "2026-11-06T17:56:36+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",

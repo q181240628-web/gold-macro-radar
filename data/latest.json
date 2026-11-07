@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-07T16:26:23.695164+00:00",
+  "generated_at": "2026-11-07T20:53:08.023292+00:00",
   "factors": [
     {
       "id": "DFII10",
@@ -304,6 +304,19 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:ca74818b637efad5d6",
+      "title": "Rhona O’Connell Examines Gold’s Crosscurrents - Medium",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFczT044TEVJYkNyUWhxNjV6MkJBbFJMd3d6SmR3OFlJZnA2Szk5WWZYTEZ5NFpHYWdqU3haQV9FcTM1UVpVV2F6eURYWUNnTjVRQUFpaFJhcy1VVjA1MW1HSnoxanU2Y1cyeDE4T29wTTFTSkNYaXE0MTRvWG1LYkxhRlBSVUhveXdpNk1aTm1KX3JDcjJFck02dlU?oc=5",
+      "published_at": "2026-11-07T11:31:01+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:e95d5520be2fa5cbf9",
       "title": "Gold drops as strong US payrolls boost dollar, yields - صحيفة مال",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wOW03b1NPaGZtbDVESWhKSGxMcHpmVHN0UFFGMURmUnQ1MmpDNHdZeXdBTGVIR040emN5NlM3Q0d1V1MwMVV4Z1FqQ3U5Qmh6SUVVU0cyZ1FnN3hYd24wRVppVXp4YldtRzE2Sw?oc=5",
@@ -343,9 +356,9 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:43dc0980849b61a5e5",
-      "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTndsUE1tOGJTWUNmU0ZWZE9rTmN2alVBZGpnRTFpQk1lZTZXbVU1U2FOdzZLRENXMmhiazlNVEthb2xWdjBXNndMWWlJR1pwYUFIMVVNaklHY2cxNGNUNkhSZ2VBRDUyTG10dnVWNlBicEQwTTBLdGQ5d2VjNllCRGI4RHNNN2dKcmtqRzI0X25uVG5LWDRWU0VUTDBVZG9TZVFEa3NXcldDdXNpdDhQOFRxcTVLYzd0b09IRGZWVXBTWmpWeXJJYXFpUXdHdUpfSVE?oc=5",
+      "id": "rss:a226b928024a0bb4c7",
+      "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields (GLD:NYSEARCA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckVmaldUY3J5cnRNbEhvOUE2NEFpaWRYbTRyOWh6ODctQUpPOEVXSE80d3d4MFJHRVRUQVkyZmhKdXluNlZ2R3N6TndWZlh0SDhGM21vdzIxMkJwLVEzRUVSby0tNFFHWFRUWnV3cm16c1o5alo2U05pMHdiVnBPeDV4Tkd3SGVKWnRkdmZybWxib3hqeVBYak0wYkhKU0tlWjN3OG5NYXlVbVFWUUUw?oc=5",
       "published_at": "2026-11-06T22:45:20+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
@@ -360,19 +373,6 @@
       "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3hSNk9RRDhKMmNvdkhnQnN4VkVLaUgwUGJ1dGc5czdxeWI1cHBVNVIwSHlMUWZQekRtd3Q2S2NxVGxwWVU0RUhma1kzLVNoal9BeUllSzMwbUZqaklRRDdKZUd6Q0tVXzBTQ2Y4UEtyUGZodXZHYXBtS1hLYms0S28ycVBtWUpET0JXOHpRRVNmOUx4UXBjYWFSV1N3Y0xmUkRaQkRZV2VfRjFCNzFqdldFZHQ?oc=5",
       "published_at": "2026-11-06T21:26:28+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:75d489ad406edf170e",
-      "title": "Dems' spending plans ‘would crush the U.S. dollar’ and ‘that gives gold a floor’ – Phoenix Futures’ Grady - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFpGWXR0YXo3SlFVVGRZVklhajVfdXhKanRXYW5uRGJ0RTgtVUJpb1NaZXdjcXN3TlludFhQcGpPeEVaTHdxbzF5X2ZTR2NuZDBFSGJWYjc3Tm8zajl2cldsSVBjaDNnN1kwYkNVMHBQNjg3b3VTS1dtOEc4TGNnZzVNVE5lTGdDa2FUTEpWOGx2bGh5d1o4Y0FEakJxZUN6RlRidmQtM0h2S2R4TVN1TmR0RTNHN0k?oc=5",
-      "published_at": "2026-11-06T21:13:12+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -408,10 +408,10 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:5944382d7971e00534",
-      "title": "Gold dives below $4,100 as blowout NFP underpins Fed hike odds - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEVMS3FrcWJxVmh1WTFxdlhieWtrMGRab3Q5UzEweDFwMklMQjVyU1JZTzF0X18zVEhmQlFSR21LUlE1MlhscFNlMF85ZGFaTVV6MjRJLUpoa2xrUW53eWNTaTlvakp5ZXlFY3hBaVR3cmhSNkstNGJmYVNuUVpSVWI1ejBJelhjR2RMdEZHUkFmeFJYS0ZiOEI1aGYwX3ZoQTdNdnZqNA?oc=5",
-      "published_at": "2026-11-06T18:39:42+00:00",
+      "id": "rss:8d247b9750365ad3f8",
+      "title": "META_TITLE_QUOTE - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LRXk3WmZ5Y1MwZVR2TUhJNEJYakk2Z3ZPbHkyWklVNkdJTnB3bjBpb0ctRzhrUzNhUmstaFJfUkJ0SVZ3VmRGTVJGS3F3aG95?oc=5",
+      "published_at": "2026-11-06T17:56:36+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -590,10 +590,10 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:3c897264e9e6da8e2f",
-      "title": "Jobs Report vs. Midterms in the Fight to Steer Gold and the Dollar - StoneX",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnRwMHMxUkk1Uk10X2l4bUxUYW5HWFdSVzZxcUhZOE1QUU1NUjNuaUduWnVnSmNtSERBWWloenJXeGV2MjhWWTlCYnZUS1FRTHp5YXBGM0RPelJmbEFnaEkyUHNQbHJuYUxlSTFsNEtZX1VPX3NVaWpac2ZqYm9wQVAya0s3S2ptenFIWjFRTnRZM0RKdjVtZXVmak82SUxnYk5v?oc=5",
-      "published_at": "2026-11-05T10:12:29+00:00",
+      "id": "rss:5f8058c31ddfd94000",
+      "title": "Gold Prices Rise as Weaker Dollar and Treasury Yields Follow US Midterm Elections - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1VsMmlYd2lHdm1aOE9HOE52THkxOVBFTGlaZkptTHpqSDVyVzJUcTZqb3BUa3lIUmJmV25XWlh5RFdHaFZpS0lROERkRkdiWWhlOFJpeFNKUXpVTEZvbEYzbGJDUlRoQkJEaTFnWVpYRmRjSzJFMTZ0MUhRcHBSRS1FN2dMMnN6TGROUjVNajRJUnRTc0tnNGwtMGJQZUQ3cEE?oc=5",
+      "published_at": "2026-11-05T10:37:14+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -603,10 +603,10 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:b0cad02cf9f1001a2f",
-      "title": "Gold at over two-week high as dollar, yields weaken; US payrolls data awaited - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5",
-      "published_at": "2026-11-05T03:46:00+00:00",
+      "id": "rss:d4d1e521be275b04eb",
+      "title": "Gold heads for biggest daily gain since August as dollar weakens - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
+      "published_at": "2026-11-05T06:33:48+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
