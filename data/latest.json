@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-07T10:08:30.274387+00:00",
+  "generated_at": "2026-11-07T16:26:23.695164+00:00",
   "factors": [
     {
       "id": "DFII10",
@@ -160,8 +160,8 @@
       "id": "DFEDTARU",
       "name": "美联储目标利率上限",
       "category": "fed_policy",
-      "date": "2026-11-06",
-      "comparison_date": "2026-11-05",
+      "date": "2026-11-07",
+      "comparison_date": "2026-11-06",
       "value": 4.0,
       "previous": 4.0,
       "unit": "%",
@@ -176,7 +176,7 @@
       "url": "https://fred.stlouisfed.org/series/DFEDTARU",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 0
     },
     {
       "id": "ICSA",
@@ -291,6 +291,19 @@
   ],
   "news": [
     {
+      "id": "rss:35bd10b208c16563dc",
+      "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
+      "published_at": "2026-11-07T14:51:46+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:e95d5520be2fa5cbf9",
       "title": "Gold drops as strong US payrolls boost dollar, yields - صحيفة مال",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wOW03b1NPaGZtbDVESWhKSGxMcHpmVHN0UFFGMURmUnQ1MmpDNHdZeXdBTGVIR040emN5NlM3Q0d1V1MwMVV4Z1FqQ3U5Qmh6SUVVU0cyZ1FnN3hYd24wRVppVXp4YldtRzE2Sw?oc=5",
@@ -330,9 +343,9 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:a226b928024a0bb4c7",
-      "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields (GLD:NYSEARCA) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckVmaldUY3J5cnRNbEhvOUE2NEFpaWRYbTRyOWh6ODctQUpPOEVXSE80d3d4MFJHRVRUQVkyZmhKdXluNlZ2R3N6TndWZlh0SDhGM21vdzIxMkJwLVEzRUVSby0tNFFHWFRUWnV3cm16c1o5alo2U05pMHdiVnBPeDV4Tkd3SGVKWnRkdmZybWxib3hqeVBYak0wYkhKU0tlWjN3OG5NYXlVbVFWUUUw?oc=5",
+      "id": "rss:43dc0980849b61a5e5",
+      "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTndsUE1tOGJTWUNmU0ZWZE9rTmN2alVBZGpnRTFpQk1lZTZXbVU1U2FOdzZLRENXMmhiazlNVEthb2xWdjBXNndMWWlJR1pwYUFIMVVNaklHY2cxNGNUNkhSZ2VBRDUyTG10dnVWNlBicEQwTTBLdGQ5d2VjNllCRGI4RHNNN2dKcmtqRzI0X25uVG5LWDRWU0VUTDBVZG9TZVFEa3NXcldDdXNpdDhQOFRxcTVLYzd0b09IRGZWVXBTWmpWeXJJYXFpUXdHdUpfSVE?oc=5",
       "published_at": "2026-11-06T22:45:20+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
@@ -408,36 +421,10 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:4ac06598798f19b500",
-      "title": "Gold just had its best day since August - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNFdfTXVyellTcE4zMmhUa0NJV3htZk5raW1wWnpUNkhYYVFJNHl1bDJWN1pHeThsdFU2eEZ4MFU2bURFRGU2VkN4WE15bzFLMmN4OFlPSUZ6dnVzNnRGaHc2d0UybzZsTTY1SUxSVTJnT1VsMHZOanNwQjEydFpBamJhTVVaeldvaGpQdzRxdw?oc=5",
-      "published_at": "2026-11-06T16:47:20+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
       "id": "rss:c3d0cf1459c3e1902c",
       "title": "Gold falls as robust US NFP boosts Dollar, but remains on track for weekly gains - FXStreet",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2tBcWJzVzVBRWR3OHU5RU1sb1FxRG9oOWZfTVliR3VndTRjR1ExMVRJdjdjaXpxdnNzNk9oYnk0UDZRdW04NUV3UG1PMS1OZUt6bUtkZDQtVUNTSF9TLUxrRGktTFZFbWZCSE9obzNrbDBNeUNoT09oakZWZ01fNTUzaG9RMi1lcldIVHNxNzZLNW9lNEJUUldtYXd6dERTNnlMRy1JTE1felJCR3R4Sg?oc=5",
       "published_at": "2026-11-06T15:29:44+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:cbc3d0a088e3a5de68",
-      "title": "Goldman Sachs Lowers Gold Price Forecasts Amid Federal Reserve’s Hawkish Stance - صحيفة مال",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WR1JUallsNjN4VE1TdmVoWHg5VGlvRmV2NU54SV82eEREY0NRQ1hDb012QkI0RTN0ME50c3psT2tKbU9wdkdvQXRpNkRUX01BU0VGQVZGODRPcWp6N3I0ZldTQmdIRWE1TF9UZw?oc=5",
-      "published_at": "2026-11-06T14:38:01+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -525,9 +512,9 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:1841efd80c89795d99",
+      "id": "rss:43925edded2ba1190d",
       "title": "Gold drops 1% as strong U.S. payrolls boost dollar, yields - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr0gG0AUFVX3lxTE5YYjlweVZndF95ZnBFbkw3b2pENzZjOVRPcVNyM1pleEt5czdSMXBRXzV3bXJZWmZEVkNqekltR0dvVEg2eXo3d2lOSjZFWU9mTzdCc3hiaHJvU0lyOUJiM2NRTVMtaTYxVGRPT0JCR01WVHZJeXRackVrTk9Ea0tPY25wTGVDc0duM3k4UHVGLU04ZW9qdXhRSy1lX3lxenpXcmk5NnZhbDRQVFAzV0pYVVlXaQ?oc=5",
       "published_at": "2026-11-06T05:03:22+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
@@ -542,6 +529,19 @@
       "title": "Gold drops as strong US payrolls boost dollar, yields - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
       "published_at": "2026-11-06T03:46:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:c9b72ec08dafc6e541",
+      "title": "Gold prices fall as blowout U.S. jobs report boosts Fed rate hike bets - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1oxdWRzeXJsYU5rd1l3cm1JSXZJSTBQdjc0b1dxNS1JR3dDR2VOOW56TVFUMGlLUTlNNEMzWmtiRWhEUGJxUDQ0a2NHUng5VUd2UkZmSlpNRktHSUFWU29EVTVXTEFmMXQzUHV1TVAzTk5FT2JKa0tKVTFEOTltaklhak5XR1AxY2ZSLWNCQkJQSkpMUktGMVJPMWE?oc=5",
+      "published_at": "2026-11-06T02:10:13+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -580,7 +580,20 @@
       "id": "rss:6079a39801f3c0418f",
       "title": "Gold Futures Overview - CME Group",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeDc1RGtZSl9sWTFkQXE5RFZpdVo3VkRJT08zLU5TSUVSQWpLTUNOR3RjZEwxY2hYNUdLUzdrV2xsdDY1OTlkcGJxM1pyaUNOSndxdDNuY2N0NXROM1psWERyeVVRZko1ZGc?oc=5",
-      "published_at": "2026-11-05T08:00:00+00:00",
+      "published_at": "2026-11-05T21:44:45+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:3c897264e9e6da8e2f",
+      "title": "Jobs Report vs. Midterms in the Fight to Steer Gold and the Dollar - StoneX",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnRwMHMxUkk1Uk10X2l4bUxUYW5HWFdSVzZxcUhZOE1QUU1NUjNuaUduWnVnSmNtSERBWWloenJXeGV2MjhWWTlCYnZUS1FRTHp5YXBGM0RPelJmbEFnaEkyUHNQbHJuYUxlSTFsNEtZX1VPX3NVaWpac2ZqYm9wQVAya0s3S2ptenFIWjFRTnRZM0RKdjVtZXVmak82SUxnYk5v?oc=5",
+      "published_at": "2026-11-05T10:12:29+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -594,19 +607,6 @@
       "title": "Gold at over two-week high as dollar, yields weaken; US payrolls data awaited - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5",
       "published_at": "2026-11-05T03:46:00+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:7fd1e4b2488fe0683f",
-      "title": "Investors Are Rushing To Gold As US Dollar Tanks - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTlNRjJpYlNBSElGTnAwSmNoZ0xlR0hEeXQ3UW1QeFM0UVR1bnVYYnFjakZyWHcyUWtkckZaS014UUxEazFkQUZ0VjlUWkdwVG9TY3Zic1ItNUxlYWx1S1pVZ3VDWFZ2aXZyVXkta0NpSEppWnF1dmJSb2RmcC1rUmZrd21PcDduVlNXSlRQZmFqWlJxS0o3Z1phNTNUalEzQlZ3SA?oc=5",
-      "published_at": "2026-11-04T17:19:49+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
