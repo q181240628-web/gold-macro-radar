@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-07T02:48:24.491175+00:00",
+  "generated_at": "2026-11-07T10:08:30.274387+00:00",
   "events": [
+    {
+      "id": "rss:e95d5520be2fa5cbf9",
+      "title": "Gold drops as strong US payrolls boost dollar, yields - صحيفة مال",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wOW03b1NPaGZtbDVESWhKSGxMcHpmVHN0UFFGMURmUnQ1MmpDNHdZeXdBTGVIR040emN5NlM3Q0d1V1MwMVV4Z1FqQ3U5Qmh6SUVVU0cyZ1FnN3hYd24wRVppVXp4YldtRzE2Sw?oc=5",
+      "published_at": "2026-11-07T08:10:35+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
     {
       "id": "rss:9866e87a4c3944d13d",
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Dollar Rallies After NFP Report - FXEmpire",
@@ -15,10 +28,36 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:1d061043b027f4f78c",
+      "title": "US jobs data push gold lower as December rate bets rise - Nation Thailand",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyX0R2YjZ5eHlBOWZxMm9lOXVXWnpvMHY5TlJ1cU9DOVN0Q3NPeWw5b1g2N0NDQlJ0N2xnRmVhc3poeWdHV2dNUXlONjIzcVphTG9pV1A2S1JDcmUtN0s5U1FUN3RCR2tMT0JyZ1RpQUVEMWk5Vmc?oc=5",
+      "published_at": "2026-11-06T23:59:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:e8c206a86312c529d3",
       "title": "Democrats' midterm sweep gives gold a boost, but the Federal Reserve still holds the cards - Kitco",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzdISW9TT1BGRXJvMjQ0WUd2RFJzUmtWcDlEem5YZm9HVEl2UENMeXdhLWtFS0ttcjQxd0g2dGJwN0ZLUkVBQllvWm9sUk5FVXhnRXRTZ2FZZk41blpxRjJXQ2FmVzR6VXRqNV80RS11cVJQUVlud3psRDVQcDFUQk9tX3I2bVlCb3VOTk5nSDNHN0RFYWV6RENsQTNsdnRES0l1SG1HNUF2SjdzV2p6bnBwb2I4N0FTbTFOaA?oc=5",
       "published_at": "2026-11-06T22:50:46+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:a226b928024a0bb4c7",
+      "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields (GLD:NYSEARCA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckVmaldUY3J5cnRNbEhvOUE2NEFpaWRYbTRyOWh6ODctQUpPOEVXSE80d3d4MFJHRVRUQVkyZmhKdXluNlZ2R3N6TndWZlh0SDhGM21vdzIxMkJwLVEzRUVSby0tNFFHWFRUWnV3cm16c1o5alo2U05pMHdiVnBPeDV4Tkd3SGVKWnRkdmZybWxib3hqeVBYak0wYkhKU0tlWjN3OG5NYXlVbVFWUUUw?oc=5",
+      "published_at": "2026-11-06T22:45:20+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -817,6 +856,19 @@
       "title": "Gold surges past $4,130 as US election sends dollar, Treasury yields tumbling - Investing.com Canada",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVUhlSDcxaHBJRHdKU3FTV18tbTRfQV9wR2lyM09KQjZyUzBnT3YzXzdsTzg2VjVrSXpOU2FpYmxUc0xZOFJ6MkxyeG1GYXkwUTlwdFpBVEhwNDFRdW1ZcjNUVTE2YXFjZENmeElVWGt0TEhjLTNjY2FGSm5aaXhCQ0hweTNBNjR0c1c1TnBEeDhCY096TWFpNUZ6SF9tSW50VmtvT2kzc2tvbFRsdmtSZXdTa3Qwalp6Ul81bkRZRmhWblpkc0hrVw?oc=5",
       "published_at": "2026-11-05T08:00:51+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:6079a39801f3c0418f",
+      "title": "Gold Futures Overview - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeDc1RGtZSl9sWTFkQXE5RFZpdVo3VkRJT08zLU5TSUVSQWpLTUNOR3RjZEwxY2hYNUdLUzdrV2xsdDY1OTlkcGJxM1pyaUNOSndxdDNuY2N0NXROM1psWERyeVVRZko1ZGc?oc=5",
+      "published_at": "2026-11-05T08:00:00+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
