@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-08T07:20:34.424003+00:00",
+  "generated_at": "2026-11-08T15:12:55.112052+00:00",
   "factors": [
     {
       "id": "DFII10",
@@ -160,8 +160,8 @@
       "id": "DFEDTARU",
       "name": "美联储目标利率上限",
       "category": "fed_policy",
-      "date": "2026-11-07",
-      "comparison_date": "2026-11-06",
+      "date": "2026-11-08",
+      "comparison_date": "2026-11-07",
       "value": 4.0,
       "previous": 4.0,
       "unit": "%",
@@ -176,7 +176,7 @@
       "url": "https://fred.stlouisfed.org/series/DFEDTARU",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 0
     },
     {
       "id": "ICSA",
@@ -291,6 +291,32 @@
   ],
   "news": [
     {
+      "id": "rss:0f486a9062db8304eb",
+      "title": "Gold, Silver Outlook Hinges On US-Iran Tensions, Global Inflation Data Next Week: Analysts - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUllCbTZYcmROdEEzd0tWMHdPVzVUU2FpNm00SEo4RU1hOHAxNE1IUTdPOEp0T2paOUlybExXcVRtUE5kaHM5ZDFQQ3VHZlFvdGZoX29TTTBIV25wT3RDaDJJN1ZmdTNOWUJ1dDAwbzNjcVh1bVZ3bExkVHBTZU9CM29heUpyUEhQaEtLUFFkcDhLWlVFVEtHT3RjT3NjTDcyRjkxQkIxellweWZlSTlJaFhmNzlnSWpqQ2dBY0V0ZGlod0pqa2xpRGNxSdIB0wFBVV95cUxPWGtrdGZKR0ZFeG5UdUltb3N4ZmlnOU1pd09falI0NFB3X293UWlWTkVnUnYzYm91bHhSSkhEUmtvS0EwLXJScjlMdzc1WWNMTkxjTzY1LVc0MkJyd296bG5zTGdtSi0yVlRQajdWaG9icEFFZ0NpZXVuZTNnbGtacV93UDRmQnRxaVdzUUZGSTRVVFR5dGM5SXp2S3lXeTMxOTM1Q04tb0lpaC10TE9zM1NYd2lWSmtWcDJoOC1wSkZhUXA4M3JRcGhVZENrbW9ZLWNV?oc=5",
+      "published_at": "2026-11-08T10:11:39+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:9ce6a50099e1ecee10",
+      "title": "What Happens To Gold If The AI Boom Cools? Jefferies Has An Answer - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnZ6czNmRnpLVWc3M2o4MWhiY3BmRG9oTGVHLWhKcENEZ0FMNER1SUV0eHBfbzJzRXFTR0hZR1k1cTBWMlBqcjQ1ek93NjdHanpGX3hsVFR5eGZrNnJFTDM4QlpmYUc0TXAyNzZhMVJqWXQ3ZXp0OTFoOFk1NlRSek9sTk1Ka3lNaFhHUG5lNGVKQmNDblh6N2Z3bDY2WHVBeTBmT2pDbjltNHViM2fSAbYBQVVfeXFMTm9lM01vX2hPYmNON1RRNkJyU1JLTWlaOU9WalFaRG5tQkViWkQ4UVpOdnlCbDd0UWVzX0xKWTFGaDlNcndGd1lBNHNVZzFYSTdXYWdiYThjUDlBel9XamZhUHhOaVg2R1BFbDNJSzhBWkt2aGVCd096LUdxX1VUS0hVWU5ybXlBc1Yxc3hYbHhnUGNnOEVIMnZqX1NvVGFPYXRGai1UUlVfTkJDTmdfYW1HQkRTS0E?oc=5",
+      "published_at": "2026-11-08T06:52:32+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:3d5dca3ef5622a371b",
       "title": "Gold, silver price outlook: US-Iran tensions, inflation data to set the tone next week - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYnBnNDBNak5BRkNUUndxUWdXbFVVX3pfck5DSVRaOXR3OVlHeG1rVTRPRG1jWUhqNEEzQTBMS1JEN01lUVZmYlJ3dWNuQ1k2Y0tZSkN4VGxkeHM0c3F2a25idWZ1U0cxcTc2cElXNll2UWxLbFRrdFAyQUJCNWJZWV9Oa0VaQVRZVUdTTHRjeXh3MlczTUNSalFCaDlxakc3UUxkaG9vbTkteEYtcm5DakdLdDh2Q0F0cHJXbXRFOUlZd2MwQ2ptM3E2dkFZby1kUjZzVmxsVk5GM1Rwc0FxMnJoQ1pPbzlwamZKMTg0clpMa2dCMHk3OFg3SmVUQdIBgwJBVV95cUxPUlRkS3VDZ2JsQU83eTdwd1R3QmpyeUVaMEdyUTdYb3VkZTZETE0zNXhzNEh0VUlocVBkMWYxRXh5OWZrejZpS3BIYzlnZ0ltanc3NGstdmhSejdxZkRiX3V4MS1yR19RYzc2OU9oWW4wTUhqZl9rVXRPaTFEa2x0VEVySzVfTXk4WExmRnhtN0pfRzRhVE95TE1fekg1N0VkXzdGN09mMzZTTVNFbkhpTFdPNEJoM1JYWjN6ajhTOXZsYWdYVHdSc0xhRC1MT21JYkExanozQ2Jfc1pYNGtxMG4wWWY0MTNUbWRkRHhNeEx2Y2N3X3hnbkpXdHRqOGJndWpJ?oc=5",
@@ -356,21 +382,8 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:43dc0980849b61a5e5",
-      "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTndsUE1tOGJTWUNmU0ZWZE9rTmN2alVBZGpnRTFpQk1lZTZXbVU1U2FOdzZLRENXMmhiazlNVEthb2xWdjBXNndMWWlJR1pwYUFIMVVNaklHY2cxNGNUNkhSZ2VBRDUyTG10dnVWNlBicEQwTTBLdGQ5d2VjNllCRGI4RHNNN2dKcmtqRzI0X25uVG5LWDRWU0VUTDBVZG9TZVFEa3NXcldDdXNpdDhQOFRxcTVLYzd0b09IRGZWVXBTWmpWeXJJYXFpUXdHdUpfSVE?oc=5",
-      "published_at": "2026-11-06T22:45:20+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
       "id": "rss:40c09c90ef00752a56",
-      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg.com",
+      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3hSNk9RRDhKMmNvdkhnQnN4VkVLaUgwUGJ1dGc5czdxeWI1cHBVNVIwSHlMUWZQekRtd3Q2S2NxVGxwWVU0RUhma1kzLVNoal9BeUllSzMwbUZqaklRRDdKZUd6Q0tVXzBTQ2Y4UEtyUGZodXZHYXBtS1hLYms0S28ycVBtWUpET0JXOHpRRVNmOUx4UXBjYWFSV1N3Y0xmUkRaQkRZV2VfRjFCNzFqdldFZHQ?oc=5",
       "published_at": "2026-11-06T21:26:28+00:00",
       "source": "黄金与宏观新闻线索",
@@ -499,6 +512,19 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:155fa20705f051da11",
+      "title": "Gold Slips Below $4,050 as US Dollar Recovers, but Weekly Gains Remain Above 5% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTVkaFFVdWdScUxhVmdMOXh1cEcyOWE2YTBsWGFVTFl6dGVXM0RrU2hGZ3VFdUluRlNqb180X2FKSi1VTng4cTAyRFZfNTlrUG9MZUw1b0l5UU5qMERiQWMzVGpfV09DY216TU5sclhIUWNpNHRwQ1kybjlPa01pb1Z3aGVIUGJLcFMzOU84eVV3OG91Qlpn?oc=5",
+      "published_at": "2026-11-06T10:26:54+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:92e3d42c8f35b42203",
       "title": "Goldman lowers year-end gold price forecast on hawkish Fed shift - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
@@ -512,9 +538,9 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:43925edded2ba1190d",
+      "id": "rss:1841efd80c89795d99",
       "title": "Gold drops 1% as strong U.S. payrolls boost dollar, yields - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr0gG0AUFVX3lxTE5YYjlweVZndF95ZnBFbkw3b2pENzZjOVRPcVNyM1pleEt5czdSMXBRXzV3bXJZWmZEVkNqekltR0dvVEg2eXo3d2lOSjZFWU9mTzdCc3hiaHJvU0lyOUJiM2NRTVMtaTYxVGRPT0JCR01WVHZJeXRackVrTk9Ea0tPY25wTGVDc0duM3k4UHVGLU04ZW9qdXhRSy1lX3lxenpXcmk5NnZhbDRQVFAzV0pYVVlXaQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr?oc=5",
       "published_at": "2026-11-06T05:03:22+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
@@ -581,32 +607,6 @@
       "title": "Gold at over two-week high as dollar, yields weaken; US payrolls data awaited - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5",
       "published_at": "2026-11-05T16:13:53+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:8eb2f58776e58eb708",
-      "title": "Gold stalls below $4,150 as US Dollar regains ground, NFP looms - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVE0VHd0eUdFbFJ5SzlEV2xKajVxQ296YlR3dm1HOGNoTktqSkl3WGJYd01CT1BjRGhaT3Y4V3hEOUtiXzk1WUxnUFN1emFQaHMya1NyWlZLRVVickVNd1BWaTA5cHpTMmNlZERGUTdOZHlmRDRON2hvUUdiTXQ0eEZlYmxUTnZSRFhrTUdzcDVHZEttQnhWY0g5Y3FTMnNwZ3FudUYyTlotbHJMeEJTblRZZGVHeWs?oc=5",
-      "published_at": "2026-11-05T15:23:31+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:5f8058c31ddfd94000",
-      "title": "Gold Prices Rise as Weaker Dollar and Treasury Yields Follow US Midterm Elections - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1VsMmlYd2lHdm1aOE9HOE52THkxOVBFTGlaZkptTHpqSDVyVzJUcTZqb3BUa3lIUmJmV25XWlh5RFdHaFZpS0lROERkRkdiWWhlOFJpeFNKUXpVTEZvbEYzbGJDUlRoQkJEaTFnWVpYRmRjSzJFMTZ0MUhRcHBSRS1FN2dMMnN6TGROUjVNajRJUnRTc0tnNGwtMGJQZUQ3cEE?oc=5",
-      "published_at": "2026-11-05T10:37:14+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",

@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-08T07:20:34.424003+00:00",
+  "generated_at": "2026-11-08T15:12:55.112052+00:00",
   "events": [
+    {
+      "id": "rss:0f486a9062db8304eb",
+      "title": "Gold, Silver Outlook Hinges On US-Iran Tensions, Global Inflation Data Next Week: Analysts - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUllCbTZYcmROdEEzd0tWMHdPVzVUU2FpNm00SEo4RU1hOHAxNE1IUTdPOEp0T2paOUlybExXcVRtUE5kaHM5ZDFQQ3VHZlFvdGZoX29TTTBIV25wT3RDaDJJN1ZmdTNOWUJ1dDAwbzNjcVh1bVZ3bExkVHBTZU9CM29heUpyUEhQaEtLUFFkcDhLWlVFVEtHT3RjT3NjTDcyRjkxQkIxellweWZlSTlJaFhmNzlnSWpqQ2dBY0V0ZGlod0pqa2xpRGNxSdIB0wFBVV95cUxPWGtrdGZKR0ZFeG5UdUltb3N4ZmlnOU1pd09falI0NFB3X293UWlWTkVnUnYzYm91bHhSSkhEUmtvS0EwLXJScjlMdzc1WWNMTkxjTzY1LVc0MkJyd296bG5zTGdtSi0yVlRQajdWaG9icEFFZ0NpZXVuZTNnbGtacV93UDRmQnRxaVdzUUZGSTRVVFR5dGM5SXp2S3lXeTMxOTM1Q04tb0lpaC10TE9zM1NYd2lWSmtWcDJoOC1wSkZhUXA4M3JRcGhVZENrbW9ZLWNV?oc=5",
+      "published_at": "2026-11-08T10:11:39+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:9ce6a50099e1ecee10",
+      "title": "What Happens To Gold If The AI Boom Cools? Jefferies Has An Answer - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnZ6czNmRnpLVWc3M2o4MWhiY3BmRG9oTGVHLWhKcENEZ0FMNER1SUV0eHBfbzJzRXFTR0hZR1k1cTBWMlBqcjQ1ek93NjdHanpGX3hsVFR5eGZrNnJFTDM4QlpmYUc0TXAyNzZhMVJqWXQ3ZXp0OTFoOFk1NlRSek9sTk1Ka3lNaFhHUG5lNGVKQmNDblh6N2Z3bDY2WHVBeTBmT2pDbjltNHViM2fSAbYBQVVfeXFMTm9lM01vX2hPYmNON1RRNkJyU1JLTWlaOU9WalFaRG5tQkViWkQ4UVpOdnlCbDd0UWVzX0xKWTFGaDlNcndGd1lBNHNVZzFYSTdXYWdiYThjUDlBel9XamZhUHhOaVg2R1BFbDNJSzhBWkt2aGVCd096LUdxX1VUS0hVWU5ybXlBc1Yxc3hYbHhnUGNnOEVIMnZqX1NvVGFPYXRGai1UUlVfTkJDTmdfYW1HQkRTS0E?oc=5",
+      "published_at": "2026-11-08T06:52:32+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
     {
       "id": "rss:3d5dca3ef5622a371b",
       "title": "Gold, silver price outlook: US-Iran tensions, inflation data to set the tone next week - The Times of India",
@@ -159,7 +185,7 @@
     },
     {
       "id": "rss:40c09c90ef00752a56",
-      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg.com",
+      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3hSNk9RRDhKMmNvdkhnQnN4VkVLaUgwUGJ1dGc5czdxeWI1cHBVNVIwSHlMUWZQekRtd3Q2S2NxVGxwWVU0RUhma1kzLVNoal9BeUllSzMwbUZqaklRRDdKZUd6Q0tVXzBTQ2Y4UEtyUGZodXZHYXBtS1hLYms0S28ycVBtWUpET0JXOHpRRVNmOUx4UXBjYWFSV1N3Y0xmUkRaQkRZV2VfRjFCNzFqdldFZHQ?oc=5",
       "published_at": "2026-11-06T21:26:28+00:00",
       "source": "黄金与宏观新闻线索",
@@ -392,6 +418,19 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:155fa20705f051da11",
+      "title": "Gold Slips Below $4,050 as US Dollar Recovers, but Weekly Gains Remain Above 5% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTVkaFFVdWdScUxhVmdMOXh1cEcyOWE2YTBsWGFVTFl6dGVXM0RrU2hGZ3VFdUluRlNqb180X2FKSi1VTng4cTAyRFZfNTlrUG9MZUw1b0l5UU5qMERiQWMzVGpfV09DY216TU5sclhIUWNpNHRwQ1kybjlPa01pb1Z3aGVIUGJLcFMzOU84eVV3OG91Qlpn?oc=5",
+      "published_at": "2026-11-06T10:26:54+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:29c5f1c815af05f265",
       "title": "Gold and silver fall as oil rebound revives inflation concerns ahead of US jobs report - Economies.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN0RWdVFmV1FWRGg1ektQWlRPVnRsazJzY2EyTklVYUc3enhmQVhyT3UtZVMtN2hHQzRKWTlvMWJtcThYUXNNMmFoc1Q0TFdWQ3B4ZmhORkIteDBWS3czc0kyeTFHWHBhWEJ5d2lsNm84clVzd2piSW14UjNMVEVyQ2s1Z0kyUmM3SjI5cDBfV1JwQjNmaUtxVEVZU2RmMGlwWXZTSnN5OTdGQ1lwbGQ2X0lXTmlCUWZLWXk3Wm5pczV6VWdSckEtMXYtdTNTMkFKLUJ5NQ?oc=5",
@@ -457,9 +496,9 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:43925edded2ba1190d",
+      "id": "rss:1841efd80c89795d99",
       "title": "Gold drops 1% as strong U.S. payrolls boost dollar, yields - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr0gG0AUFVX3lxTE5YYjlweVZndF95ZnBFbkw3b2pENzZjOVRPcVNyM1pleEt5czdSMXBRXzV3bXJZWmZEVkNqekltR0dvVEg2eXo3d2lOSjZFWU9mTzdCc3hiaHJvU0lyOUJiM2NRTVMtaTYxVGRPT0JCR01WVHZJeXRackVrTk9Ea0tPY25wTGVDc0duM3k4UHVGLU04ZW9qdXhRSy1lX3lxenpXcmk5NnZhbDRQVFAzV0pYVVlXaQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr?oc=5",
       "published_at": "2026-11-06T05:03:22+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
@@ -470,9 +509,9 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:1841efd80c89795d99",
+      "id": "rss:43925edded2ba1190d",
       "title": "Gold drops 1% as strong U.S. payrolls boost dollar, yields - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr0gG0AUFVX3lxTE5YYjlweVZndF95ZnBFbkw3b2pENzZjOVRPcVNyM1pleEt5czdSMXBRXzV3bXJZWmZEVkNqekltR0dvVEg2eXo3d2lOSjZFWU9mTzdCc3hiaHJvU0lyOUJiM2NRTVMtaTYxVGRPT0JCR01WVHZJeXRackVrTk9Ea0tPY25wTGVDc0duM3k4UHVGLU04ZW9qdXhRSy1lX3lxenpXcmk5NnZhbDRQVFAzV0pYVVlXaQ?oc=5",
       "published_at": "2026-11-06T05:03:22+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
@@ -738,7 +777,7 @@
       "id": "rss:8eb2f58776e58eb708",
       "title": "Gold stalls below $4,150 as US Dollar regains ground, NFP looms - FXStreet",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVE0VHd0eUdFbFJ5SzlEV2xKajVxQ296YlR3dm1HOGNoTktqSkl3WGJYd01CT1BjRGhaT3Y4V3hEOUtiXzk1WUxnUFN1emFQaHMya1NyWlZLRVVickVNd1BWaTA5cHpTMmNlZERGUTdOZHlmRDRON2hvUUdiTXQ0eEZlYmxUTnZSRFhrTUdzcDVHZEttQnhWY0g5Y3FTMnNwZ3FudUYyTlotbHJMeEJTblRZZGVHeWs?oc=5",
-      "published_at": "2026-11-05T15:23:31+00:00",
+      "published_at": "2026-11-05T15:30:00+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
