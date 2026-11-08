@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T15:12:55.112052+00:00",
+  "generated_at": "2026-11-08T19:42:37.238355+00:00",
   "events": [
     {
       "id": "rss:0f486a9062db8304eb",
@@ -49,6 +49,32 @@
       "group": "news",
       "signal": "unknown",
       "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:d9d186db8cf1782c64",
+      "title": "US Jobs Smash Forecasts, Sending Gold and Bitcoin Lower - BeInCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83RW4takp3TkVNM25zOEh0Z3V2b1l2TmZ6b1V2RHRFc19XamVLUUhSbVhFbEI5Q1AxRGU3dGNsOWhsNjN3aTd6dm9DMHFJY1ZERzlDSFR6azVQVi0zRkVjcFdjX1FSbUk?oc=5",
+      "published_at": "2026-11-08T01:50:49+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:7a1bd76ab77a372201",
+      "title": "Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data - FOREX.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQzFIQXQ4YlVYVl9idTZqWGRxcU11d0pha0lrbnBCR3JDbUo4MGk0MUhnUmwxVE5VSnJGTlZ2amstZVZrLUtPMW9CZVhWV3ZmMzJEVFlLcnR3Ri0xSFIxMC1Vd2gtMFBHZHdQbVdOcEVSR2VzNUZBZ0ZSeDc0ZmVyQmx2UEQwdS0tRGF2RGNIa2lZQ3hZa0QxdEVJU1RJR09PU2NWbEVQZGVVcHlyR3ZPaW1NQTYwMXozTHNZLQ?oc=5",
+      "published_at": "2026-11-07T21:00:37+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -185,7 +211,7 @@
     },
     {
       "id": "rss:40c09c90ef00752a56",
-      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg",
+      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3hSNk9RRDhKMmNvdkhnQnN4VkVLaUgwUGJ1dGc5czdxeWI1cHBVNVIwSHlMUWZQekRtd3Q2S2NxVGxwWVU0RUhma1kzLVNoal9BeUllSzMwbUZqaklRRDdKZUd6Q0tVXzBTQ2Y4UEtyUGZodXZHYXBtS1hLYms0S28ycVBtWUpET0JXOHpRRVNmOUx4UXBjYWFSV1N3Y0xmUkRaQkRZV2VfRjFCNzFqdldFZHQ?oc=5",
       "published_at": "2026-11-06T21:26:28+00:00",
       "source": "黄金与宏观新闻线索",
@@ -201,6 +227,19 @@
       "title": "Dems' spending plans ‘would crush the U.S. dollar’ and ‘that gives gold a floor’ – Phoenix Futures’ Grady - Kitco",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFpGWXR0YXo3SlFVVGRZVklhajVfdXhKanRXYW5uRGJ0RTgtVUJpb1NaZXdjcXN3TlludFhQcGpPeEVaTHdxbzF5X2ZTR2NuZDBFSGJWYjc3Tm8zajl2cldsSVBjaDNnN1kwYkNVMHBQNjg3b3VTS1dtOEc4TGNnZzVNVE5lTGdDa2FUTEpWOGx2bGh5d1o4Y0FEakJxZUN6RlRidmQtM0h2S2R4TVN1TmR0RTNHN0k?oc=5",
       "published_at": "2026-11-06T21:13:12+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:c856d6c3abf3d9c161",
+      "title": "Blowout NFP lifts Fed hike odds as gold tumbles below $4,100 - www.tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXRDYjZsbC1EUHBiOFhRaUkwemNuSXdIT1g3ZmpfaGFqQmlCN0ZacE1TOGNhWGFzSXZfRVRVbTJKdFdMbEQ3NEo5RU8xMktMU01LajR4d09DbC1UcGhYTkY2SDVrNi12NGJUOHBpVzhUaXF4NlNNSmNoSVB3NmFwelRpUFB4T2VMcWhmZWQtSDhXLVZTdjFFdDUzcFNLZDV5TTNXY0M0T0pid2ktYjVsb1pSS3ZfZUhWMTZzYlM4VUdhczRGT1dyUV9B?oc=5",
+      "published_at": "2026-11-06T21:10:33+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -387,19 +426,6 @@
       "group": "release",
       "signal": "unknown",
       "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:d9d186db8cf1782c64",
-      "title": "US Jobs Smash Forecasts, Sending Gold and Bitcoin Lower - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83RW4takp3TkVNM25zOEh0Z3V2b1l2TmZ6b1V2RHRFc19XamVLUUhSbVhFbEI5Q1AxRGU3dGNsOWhsNjN3aTd6dm9DMHFJY1ZERzlDSFR6azVQVi0zRkVjcFdjX1FSbUk?oc=5",
-      "published_at": "2026-11-06T12:09:53+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
