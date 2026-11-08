@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-08T19:42:37.238355+00:00",
+  "generated_at": "2026-11-08T23:42:42.187110+00:00",
   "factors": [
     {
       "id": "DFII10",
@@ -304,6 +304,32 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:05f053538ba83354ff",
+      "title": "Gold pulls back from over two-month high amid rising oil, caution ahead of CPI By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJFcHNQeXhUd2ZTNC1leFFocXFBTXo5M1dHY1prX1VOMHotVnFyQ0xSa3YwR05DRThNRjEyLWZiZUdDaHZ0QXJkM2hEcFcydkdnSW5yd0dEMVBkNnplT3FnWktfUHM5Q2phaklsMy1UakhfYjNBeFktQW5GZmdzT3QyTlNMd2FJNFpZaEZnZDZ3YjE0dEtMdnRnVVZBdmJEdGUzQVZ0QU1TeW9BcV9Ha0lXY1A1ZGhCMldZdnFRd09NUQ?oc=5",
+      "published_at": "2026-11-08T07:09:34+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "mixed",
+      "reason": "油价或供给新闻的黄金传导取决于通胀预期与实际利率。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:0bfe6781d63eefb37b",
+      "title": "Marc Faber: Gold Price, US Dollar & the Swiss Gold Initiative - GoldBroker",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeG9QdDdRLXZ3UVZzNTk3LWhQOFk3Q3JXbm42YzJQeDZoY2JpSHZXYTk1TW9iT3RFbWFiNFVSX3d0UkZRUV9PNkxXTUpfa3pFcmJoMVZVTFJkR1pfWVNIVTBLQS13aUl4c0s3U1BESGhjRnZ4a3hSQ3dsZjlBS200RWg2MzRBNGg2ODAtTGpIN2VCWkxjSlhr?oc=5",
+      "published_at": "2026-11-08T06:48:45+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:3d5dca3ef5622a371b",
       "title": "Gold, silver price outlook: US-Iran tensions, inflation data to set the tone next week - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYnBnNDBNak5BRkNUUndxUWdXbFVVX3pfck5DSVRaOXR3OVlHeG1rVTRPRG1jWUhqNEEzQTBMS1JEN01lUVZmYlJ3dWNuQ1k2Y0tZSkN4VGxkeHM0c3F2a25idWZ1U0cxcTc2cElXNll2UWxLbFRrdFAyQUJCNWJZWV9Oa0VaQVRZVUdTTHRjeXh3MlczTUNSalFCaDlxakc3UUxkaG9vbTkteEYtcm5DakdLdDh2Q0F0cHJXbXRFOUlZd2MwQ2ptM3E2dkFZby1kUjZzVmxsVk5GM1Rwc0FxMnJoQ1pPbzlwamZKMTg0clpMa2dCMHk3OFg3SmVUQdIBgwJBVV95cUxPUlRkS3VDZ2JsQU83eTdwd1R3QmpyeUVaMEdyUTdYb3VkZTZETE0zNXhzNEh0VUlocVBkMWYxRXh5OWZrejZpS3BIYzlnZ0ltanc3NGstdmhSejdxZkRiX3V4MS1yR19RYzc2OU9oWW4wTUhqZl9rVXRPaTFEa2x0VEVySzVfTXk4WExmRnhtN0pfRzRhVE95TE1fekg1N0VkXzdGN09mMzZTTVNFbkhpTFdPNEJoM1JYWjN6ajhTOXZsYWdYVHdSc0xhRC1MT21JYkExanozQ2Jfc1pYNGtxMG4wWWY0MTNUbWRkRHhNeEx2Y2N3X3hnbkpXdHRqOGJndWpJ?oc=5",
@@ -312,19 +338,6 @@
       "group": "news",
       "signal": "unknown",
       "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:d9d186db8cf1782c64",
-      "title": "US Jobs Smash Forecasts, Sending Gold and Bitcoin Lower - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83RW4takp3TkVNM25zOEh0Z3V2b1l2TmZ6b1V2RHRFc19XamVLUUhSbVhFbEI5Q1AxRGU3dGNsOWhsNjN3aTd6dm9DMHFJY1ZERzlDSFR6azVQVi0zRkVjcFdjX1FSbUk?oc=5",
-      "published_at": "2026-11-08T01:50:49+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -383,7 +396,7 @@
     },
     {
       "id": "rss:40c09c90ef00752a56",
-      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg.com",
+      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3hSNk9RRDhKMmNvdkhnQnN4VkVLaUgwUGJ1dGc5czdxeWI1cHBVNVIwSHlMUWZQekRtd3Q2S2NxVGxwWVU0RUhma1kzLVNoal9BeUllSzMwbUZqaklRRDdKZUd6Q0tVXzBTQ2Y4UEtyUGZodXZHYXBtS1hLYms0S28ycVBtWUpET0JXOHpRRVNmOUx4UXBjYWFSV1N3Y0xmUkRaQkRZV2VfRjFCNzFqdldFZHQ?oc=5",
       "published_at": "2026-11-06T21:26:28+00:00",
       "source": "黄金与宏观新闻线索",
@@ -438,6 +451,19 @@
       "title": "Gold and the greenback are still at the mercy of Trump and the Fed – Walsh Trading’s Weyer - Kitco",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONXRWMnM5OU9sRWYyYkNCeTQzMlVibkxWMmFTWjF1bzY1RXNQeGliSVZ3RGxQandxdXltMXB5WVlFOE9aVVNnUjF0MlozVElWbjI1SWVmek1tVXUxVmdPck5zVlV5YmM5MWwySVlDWG9MZmktM2V5VU8xa1pWQ0FZYjllOFl1MERaamgxM3lEbnhEVjI1WDNmcEFyUUMyZ2phWGp1UXUyV3hWakJIaURfMFBqTHRyQQ?oc=5",
       "published_at": "2026-11-06T20:31:42+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:f786befde3eb13ba1d",
+      "title": "Bumper NFP boosts Fed rate rise bets as gold plunges below $4,100 - www.tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPek92QlZTV1pnLVVFeFp3Zi1FZlFlejZPYVZTMDJOOUh3V2J0MnJtOWY4YTA3S3dpRHMtRU00R1dTNlZWb0oxUkVlVERSX3hIVWR3ekFtMU9LdThBQl9uLUZPeFZVdm9QUkxuTnRTeVZuQy03WmJaMDdiT3pjWGQwa3ZoSWpzOW9ZZGREM1dEVEpMVGFVU2lIbVhCeEhiZXRHUVpWMng5am1DN25kZDhHQm82cjhVNDRLbFFlYXZYSmRfbDEydUw4TElR?oc=5",
+      "published_at": "2026-11-06T20:05:02+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -581,32 +607,6 @@
       "title": "Gold heads for best week since August as U.S. political shift lifts bonds - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1oxdWRzeXJsYU5rd1l3cm1JSXZJSTBQdjc0b1dxNS1JR3dDR2VOOW56TVFUMGlLUTlNNEMzWmtiRWhEUGJxUDQ0a2NHUng5VUd2UkZmSlpNRktHSUFWU29EVTVXTEFmMXQzUHV1TVAzTk5FT2JKa0tKVTFEOTltaklhak5XR1AxY2ZSLWNCQkJQSkpMUktGMVJPMWE?oc=5",
       "published_at": "2026-11-06T02:03:00+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:07a89212c4f10b0cef",
-      "title": "Gold prices fall as blowout U.S. jobs report boosts Fed rate hike bets - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2pnMGJ5djA5NEYzbXA2TmE0dGlCQXQ3cC1fQ1hWZVVpb2xoUWVlSTJ1QmhZR09pcEJJQjdGT3JwWGZUOGtqb2NRR0x5aTBCVHJYSGJkOXIwOHdDejdJaGE0eURqejFKUmRsNjMxMHhwOU96WUNPTGx0c3Y5VEdvMFdVRHJqUUJadnN6QV9CSXp5bkRrZUlObGNpbkxmTy11dkdFSkh5eTFtWjR2SVRrVGtndDRuNTR2ek5YMHhUekl5VDFnVmc?oc=5",
-      "published_at": "2026-11-06T01:34:37+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:913052575ee513d922",
-      "title": "Gold holds gains, silver slips as Wall Street plunges, Fed hike bets ease - Kitco PM Report - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdktNV1ItcEw3anlLMXJFSHJGbk9tQ01jMFV1a2tJTVRxZDRlejVEWmFTMWw3T1ZvLWc1LVpNYk9jSHRtcEh6MWJHU0lOZE5PVkpPNm1oYzRUeTdrOUc0U1hKeXg0MWdvUDNwTjJKb09XQV9ZX0QteXl3Z2VnTUhsQUZtRE5abzV1dll3QURpdHZkajVfVFUyWnktNFl2dGdoSlozNk1Xby14Nk1fczlpakEtTlpKTVhKdHFPdQ?oc=5",
-      "published_at": "2026-11-05T22:12:40+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",

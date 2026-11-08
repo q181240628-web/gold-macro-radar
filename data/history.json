@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T19:42:37.238355+00:00",
+  "generated_at": "2026-11-08T23:42:42.187110+00:00",
   "events": [
     {
       "id": "rss:0f486a9062db8304eb",
@@ -15,10 +15,36 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:05f053538ba83354ff",
+      "title": "Gold pulls back from over two-month high amid rising oil, caution ahead of CPI By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUJFcHNQeXhUd2ZTNC1leFFocXFBTXo5M1dHY1prX1VOMHotVnFyQ0xSa3YwR05DRThNRjEyLWZiZUdDaHZ0QXJkM2hEcFcydkdnSW5yd0dEMVBkNnplT3FnWktfUHM5Q2phaklsMy1UakhfYjNBeFktQW5GZmdzT3QyTlNMd2FJNFpZaEZnZDZ3YjE0dEtMdnRnVVZBdmJEdGUzQVZ0QU1TeW9BcV9Ha0lXY1A1ZGhCMldZdnFRd09NUQ?oc=5",
+      "published_at": "2026-11-08T07:09:34+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "mixed",
+      "reason": "油价或供给新闻的黄金传导取决于通胀预期与实际利率。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:9ce6a50099e1ecee10",
       "title": "What Happens To Gold If The AI Boom Cools? Jefferies Has An Answer - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnZ6czNmRnpLVWc3M2o4MWhiY3BmRG9oTGVHLWhKcENEZ0FMNER1SUV0eHBfbzJzRXFTR0hZR1k1cTBWMlBqcjQ1ek93NjdHanpGX3hsVFR5eGZrNnJFTDM4QlpmYUc0TXAyNzZhMVJqWXQ3ZXp0OTFoOFk1NlRSek9sTk1Ka3lNaFhHUG5lNGVKQmNDblh6N2Z3bDY2WHVBeTBmT2pDbjltNHViM2fSAbYBQVVfeXFMTm9lM01vX2hPYmNON1RRNkJyU1JLTWlaOU9WalFaRG5tQkViWkQ4UVpOdnlCbDd0UWVzX0xKWTFGaDlNcndGd1lBNHNVZzFYSTdXYWdiYThjUDlBel9XamZhUHhOaVg2R1BFbDNJSzhBWkt2aGVCd096LUdxX1VUS0hVWU5ybXlBc1Yxc3hYbHhnUGNnOEVIMnZqX1NvVGFPYXRGai1UUlVfTkJDTmdfYW1HQkRTS0E?oc=5",
       "published_at": "2026-11-08T06:52:32+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:0bfe6781d63eefb37b",
+      "title": "Marc Faber: Gold Price, US Dollar & the Swiss Gold Initiative - GoldBroker",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeG9QdDdRLXZ3UVZzNTk3LWhQOFk3Q3JXbm42YzJQeDZoY2JpSHZXYTk1TW9iT3RFbWFiNFVSX3d0UkZRUV9PNkxXTUpfa3pFcmJoMVZVTFJkR1pfWVNIVTBLQS13aUl4c0s3U1BESGhjRnZ4a3hSQ3dsZjlBS200RWg2MzRBNGg2ODAtTGpIN2VCWkxjSlhr?oc=5",
+      "published_at": "2026-11-08T06:48:45+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -211,7 +237,7 @@
     },
     {
       "id": "rss:40c09c90ef00752a56",
-      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg.com",
+      "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3hSNk9RRDhKMmNvdkhnQnN4VkVLaUgwUGJ1dGc5czdxeWI1cHBVNVIwSHlMUWZQekRtd3Q2S2NxVGxwWVU0RUhma1kzLVNoal9BeUllSzMwbUZqaklRRDdKZUd6Q0tVXzBTQ2Y4UEtyUGZodXZHYXBtS1hLYms0S28ycVBtWUpET0JXOHpRRVNmOUx4UXBjYWFSV1N3Y0xmUkRaQkRZV2VfRjFCNzFqdldFZHQ?oc=5",
       "published_at": "2026-11-06T21:26:28+00:00",
       "source": "黄金与宏观新闻线索",
@@ -266,6 +292,19 @@
       "title": "Gold and the greenback are still at the mercy of Trump and the Fed – Walsh Trading’s Weyer - Kitco",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONXRWMnM5OU9sRWYyYkNCeTQzMlVibkxWMmFTWjF1bzY1RXNQeGliSVZ3RGxQandxdXltMXB5WVlFOE9aVVNnUjF0MlozVElWbjI1SWVmek1tVXUxVmdPck5zVlV5YmM5MWwySVlDWG9MZmktM2V5VU8xa1pWQ0FZYjllOFl1MERaamgxM3lEbnhEVjI1WDNmcEFyUUMyZ2phWGp1UXUyV3hWakJIaURfMFBqTHRyQQ?oc=5",
       "published_at": "2026-11-06T20:31:42+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:f786befde3eb13ba1d",
+      "title": "Bumper NFP boosts Fed rate rise bets as gold plunges below $4,100 - www.tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPek92QlZTV1pnLVVFeFp3Zi1FZlFlejZPYVZTMDJOOUh3V2J0MnJtOWY4YTA3S3dpRHMtRU00R1dTNlZWb0oxUkVlVERSX3hIVWR3ekFtMU9LdThBQl9uLUZPeFZVdm9QUkxuTnRTeVZuQy03WmJaMDdiT3pjWGQwa3ZoSWpzOW9ZZGREM1dEVEpMVGFVU2lIbVhCeEhiZXRHUVpWMng5am1DN25kZDhHQm82cjhVNDRLbFFlYXZYSmRfbDEydUw4TElR?oc=5",
+      "published_at": "2026-11-06T20:05:02+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
