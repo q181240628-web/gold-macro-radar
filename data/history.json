@@ -1,11 +1,50 @@
 {
-  "generated_at": "2026-11-10T17:50:21.344838+00:00",
+  "generated_at": "2026-11-10T23:22:28.613132+00:00",
   "events": [
     {
-      "id": "rss:b8c0e61dc13ddd6511",
-      "title": "US Inflation Shockwaves Hit Markets — Fed Rate Hike Fears Send Gold Tumbling - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdExvZTRLZ2hLaDFILUFrRElhejc1cDZ2ak16ZHM3WTQzcGU0TTc2amt6TXZOZ1l6V3p4UV9xczgycnFyQThPQ1hlRHJLWDNQZlhSeGRtME5KdVNOWC1pTzk1M1U0eFdSNEFWUFdCdnAwQkdicU9nbFNlS2xpV2c4U0hVRTNkU3EtMWlOenVGY0VRaE56S0FfZ1p4NXNlY0U5Ym5uSTlMWlJNRWFuR0Q2cGhiQmRiak9TcWZWdA?oc=5",
-      "published_at": "2026-11-10T17:10:02+00:00",
+      "id": "rss:84e1cc7bdc8e187302",
+      "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
+      "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+      "published_at": "2026-11-10T20:30:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:a9462498aec5959a4c",
+      "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWZxX1NKb3NlaFNCOHJlcE1kN2NRZjh0OEVaM3hQS1dQX0t4VkFadURVZzJhVE45Mlk0a2RWajItRjdDdWxBSU1mcWZBYng4cnBFUTNSSWE3VnQyOUE0WnRVWGtpcFNZejlNWlJLelgwNk9hWjRsZ3ZyYU1ERnQ1cS1VRWk5dG1PcUJoU01SeURPQUZoN3RnVEFTM1FkVzRORU9PWUpHN20wYXZpOU9jNGd3?oc=5",
+      "published_at": "2026-11-10T20:17:23+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "mixed",
+      "reason": "油价或供给新闻的黄金传导取决于通胀预期与实际利率。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:37d965cd79139c4cd3",
+      "title": "Why is Gold Spot US Dollar stock sliding today? - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRiQ195TlRyU1hGVFJqSUgwNXNyRTA3amphNFh5S19ZOUlYNjZ0U1R5T1QzS1Vna3RGRXdEalZFbGFCcUk1LTlkY2RjTm5fazZ0UDNYTHRJU0wxN1NCN2lwSERNTWtnNWo0Y0tKRnZUOEE5VzZtekVXbTBvQ3VzXzJVajJBVGVkNHVHREREaUc2OXN1S3NXTWlvd05WcjZfSGZlSFpubFhJaW8?oc=5",
+      "published_at": "2026-11-10T19:15:57+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:3fe40f6572bc095810",
+      "title": "Gold crashes toward $4,000 as hot US inflation sends Treasury yields above 5% - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEFoMmJfNDBIR0lWZjNpS1k1TGhFVVFDdnZ1cEVxSWRDM3ZiWXlsLTVTSlhVakp4Tjc1LVJCd01wVEF5V0RDWHBuOFluVmhUN1A5eXNDT2tybFVIcy1Jc0JNS0ZWOWRJRk1VbExOcjRGdF9JeDdfandaMGJxVmVPVFE5b2ctSDlzSkd5M0RvVThXTXBVb1RXRXhtS210TncyQmdDMllNRy1aUGE2eWRJZU1jZjJGTlFhdlE?oc=5",
+      "published_at": "2026-11-10T18:15:59+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -15,14 +54,14 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:a9462498aec5959a4c",
-      "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWZxX1NKb3NlaFNCOHJlcE1kN2NRZjh0OEVaM3hQS1dQX0t4VkFadURVZzJhVE45Mlk0a2RWajItRjdDdWxBSU1mcWZBYng4cnBFUTNSSWE3VnQyOUE0WnRVWGtpcFNZejlNWlJLelgwNk9hWjRsZ3ZyYU1ERnQ1cS1VRWk5dG1PcUJoU01SeURPQUZoN3RnVEFTM1FkVzRORU9PWUpHN20wYXZpOU9jNGd3?oc=5",
-      "published_at": "2026-11-10T16:44:41+00:00",
+      "id": "rss:b8c0e61dc13ddd6511",
+      "title": "US Inflation Shockwaves Hit Markets — Fed Rate Hike Fears Send Gold Tumbling - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdExvZTRLZ2hLaDFILUFrRElhejc1cDZ2ak16ZHM3WTQzcGU0TTc2amt6TXZOZ1l6V3p4UV9xczgycnFyQThPQ1hlRHJLWDNQZlhSeGRtME5KdVNOWC1pTzk1M1U0eFdSNEFWUFdCdnAwQkdicU9nbFNlS2xpV2c4U0hVRTNkU3EtMWlOenVGY0VRaE56S0FfZ1p4NXNlY0U5Ym5uSTlMWlJNRWFuR0Q2cGhiQmRiak9TcWZWdA?oc=5",
+      "published_at": "2026-11-10T17:10:02+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
-      "signal": "mixed",
-      "reason": "油价或供给新闻的黄金传导取决于通胀预期与实际利率。",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -58,6 +97,19 @@
       "title": "Bitcoin vs Gold Outlook: BTC and XAU pull back as US inflation rises in October - FXStreet",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeXdWT1FxcGMySkNxSG1BSTIxTjR6SHVDR0VVdWsxU3haT0ZiRFZnTjYyamlreVFHOEozOGFPN1ZaN2xmRlF5REF5TlhVaXFVSkhlVV9jQ3pZNVpVZHhJclFQQk9zODN5QWx5dVBOQnl0ZE1hRklGRXF2QlBfQ3Q5dUpjYng1SUVYaVFzNWtpQ2s0Z3JmWXk2TWRaRTBUbjQzdFY0TU9KWEEwUkN4cXNZMFNldmZpR1F1bEpxQnJtMnRtMUNDUGY3b1FBaXdNVk1HMGc5Vg?oc=5",
       "published_at": "2026-11-10T15:41:27+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:7d88c78af178b04a99",
+      "title": "Dollar Jumps and Gold Falls on Hot US CPI and Hawkish Fed Comments - Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWtCTFhYMWZrUGtsVm1LYzBRcmpqOFRzUUF1VTdmNXFMdGp5bzhvdURFNEVIOTNLS0xhc2hoR3NYc3FlY2pBVk5lbFMwcTJDMkNDSFY5NTNVQjBUN1JQX3FrNFFBRmgzMVEtSER6QzlqZG9qRWxUQUpsUllXYk0tQnJNQUpiWHJ4bFpTNDVray1LYm1naXdaNGhRTEVHZnViZW8taEtyamFVWE5qS2xZ?oc=5",
+      "published_at": "2026-11-10T15:39:54+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -197,6 +249,19 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:057718bc98c18726f8",
+      "title": "Gold drops 1 percent on hawkish Fed comments ahead of US inflation data - The Standard (HK)",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSy1paF9Cbm5aWkg3cTJ4cm1GNl9odVAwT3RiRXJHNHdFUTdxLWo5cDlsOEl5LU9IMF9pb0syYmNxX183aGhnb00wQUdzZWpLOU1GVDl6Qmp3OWZQRG05d3ZLNDNFMGkwaXA3dkZOSGxrU3pTTnNZWFpGb0RUWFBtYVhZOUlTTlZ3Ui1OVU11SzJ0OEF1SFdMN1ltNlp0d2JZV0pkNWZTSEZjMjMtNnpKMVNJUlFSY2UzaGlxREw0ZFREa2M?oc=5",
+      "published_at": "2026-11-10T12:36:10+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:55de50cb8bba81c56d",
       "title": "Gold drops 1% on hawkish Fed comments ahead of US inflation data - TradingView",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdjlZaDEweWpWQWtxajNvcWFSUlR0VEcwNUFDSUctWHRQazhSa3doSUtIajhqTS1CSzRJNXhPMkxILVVSZ2plZjlDLWNJYVY5dkpCdkNFbFhMY3RHOUZRdUppZjk5THpuRXRlbnBEUVFLUkluQllVUS1GQ29NYlZKZDV4UV9SZ2lnWnA5TzdMSWgzNjFQNkJrM2U2Ty1CU0dWSGQ2UGJoSmFPVHRHbVJvaUpscFEyRTZiNHFWckpSankzcXM0SWhhX19RXzdkQQ?oc=5",
@@ -288,6 +353,19 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:67218b0e280286dd3c",
+      "title": "Shafaq News..Gold slips ahead of US inflation data - شفق نيوز",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xc2NUY21TRGtoX1ZrMkgwR0xpdjFMWTA1SWczSUtER3R0NjhmX2Z2eUF1d1lIUUpPNkxYVVpyQlpVMnk0YzhSOEtZT05ySlkyZW5RVXNvdnZ3NkIzM2Z6OHY0b01JZzhXVzlEMkdQYTJXN1F6S1E?oc=5",
+      "published_at": "2026-11-10T07:21:13+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:9c10ba3320fa29eb5f",
       "title": "Global Markets Rebound: Oil Falls, Stocks Rally and Traders Brace for US Inflation Data - Vocal",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3dHVU5vRGQ1UXZoYUxZb0VCZ3JUWnNpZjNuT0pCUUxBWkJCZGtVTDFoVWNJY0g0VFJ5ckx1TjRxMzh6Z0JyWmpEZFhubGVvOHNKdktXSjY2RS1GTGNVT1BsdWxEOEl4dmlPUDhER01sYzNWYWVZVmhwa3pvaXh5TDZQTHpiNDV6MEx6XzhLeHVFNTRyWHlSWmxZYk5icHk4M1VyNTV6X01DZUJRZXl3eTdn?oc=5",
@@ -367,7 +445,7 @@
     },
     {
       "id": "rss:06c46a00842e12964d",
-      "title": "Gold falls more than 2% as CPI tops forecasts, lifting dollar and yields - Reuters",
+      "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields - Reuters",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
       "published_at": "2026-11-10T03:31:00+00:00",
       "source": "黄金与宏观新闻线索",
@@ -406,13 +484,13 @@
     },
     {
       "id": "rss:3e416ed8b00d6e609e",
-      "title": "Gold holds near $4,130 as oil retreat eases inflation concerns - Yahoo Finance",
+      "title": "Gold slips as investors assess hawkish Fed comments, await U.S. inflation data - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUllYUDBsLUlxdHZlZWhmNEpvVnE3cUJEcEgwUzk4NVdzVm9ZZlI5NU04eFhBT2xaenA2VlphTWZzbjhXaUhGeG1RSG1LZnJDS2tWdDFWWVRPdF9fZ1FMTkZneDdodmJSTUQ4bERJOWdMR1kteFNFMG9TNzVmRDdCTzVDNVhqYUpXRUpMaVdpQzkycFhEX0E?oc=5",
-      "published_at": "2026-11-10T01:42:00+00:00",
+      "published_at": "2026-11-10T01:56:24+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
-      "signal": "mixed",
-      "reason": "油价或供给新闻的黄金传导取决于通胀预期与实际利率。",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -533,6 +611,24 @@
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "obs:T10YIE:2026-11-10:2.2",
+      "title": "10年期通胀盈亏平衡率出现显著变化",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "observation_date": "2026-11-10",
+      "source": "FRED（源自美联储/BLS/BEA等）",
+      "url": "https://fred.stlouisfed.org/series/T10YIE",
+      "signal": "mixed",
+      "reason": "通胀预期变动需与名义利率、TIPS实际利率一起判断。",
+      "kind": "metric",
+      "confidence": "高",
+      "value": 2.2,
+      "previous": 2.3,
+      "delta": -0.1,
+      "delta_unit": "百分点",
+      "comparison": "较前5期",
+      "disclaimer": "仅比较已公布历史值，不是实际值与分析师一致预期之差。"
     },
     {
       "id": "rss:30c3e59a3c89e434cc",
