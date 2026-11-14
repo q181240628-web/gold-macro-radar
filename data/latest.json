@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-14T03:15:57.597132+00:00",
+  "generated_at": "2026-11-14T10:36:05.651691+00:00",
   "factors": [
     {
       "id": "DFII10",
@@ -291,6 +291,19 @@
   ],
   "news": [
     {
+      "id": "rss:8a2fe62f1afc683d79",
+      "title": "Divergence within the Federal Reserve has widened, with gold caught in a tug-of-war between “inflation diffusion” and “energy shocks,” leading to a weekly decline of over 4%. - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWDNyNW81dFV3NkM2ZHE1UmF4QnRjb2lzcGd3b0loVjdCVjQ2TWY0eTYwbUlVR21EMXd5RU5CQm5KZHJWZVNObHRib2JmVGQwaGVvYV9mU3dWZkRad2JzYnlETnlPRkx1aHIzbmw2aDFaNTBFYWdBTkFTNWI4b0VHN1I1am91SEdsWkFwaWZtQ2NXTmY4bmNuUDRlWDdTVTUtWVZxa0wtdHdiNXVXOElN?oc=5",
+      "published_at": "2026-11-14T03:37:53+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "mixed",
+      "reason": "地缘事件可能提高避险需求，也可能推高美元或实际利率。仅依据标题，待核实。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:4909338736a71b2f2c",
       "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles  and the Macroeconomy",
       "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
@@ -312,6 +325,19 @@
       "group": "news",
       "signal": "unknown",
       "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:8d9f46ff85aa202b4b",
+      "title": "Wall Street bears abound after inflation sours Fed outlook, Main Street abandons bullish bias as gold drops below $3,900/oz - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ09SOU1XMmZSdkZoVU5iQkdoN1duRHpoNUhqWHlJVVRhd3ozYzFLLXkteml0ZXJoODBvUy1iMDB1Yk9qRy1oSFhfQ296RlBITmhSbzFSRVBVeGZLQ1lXb05ZRmRIVl9PclVZdzVJQ0h0M2JTRnZKUzZndkswa1JNNEtwbjdNMW1IQXZuQ1BDdVJlM0Y2TmRRWnhEUDFVb3FROEZyOFA1ZEdjNjlWbzYxak9QSjNKLVk?oc=5",
+      "published_at": "2026-11-13T23:00:05+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -343,8 +369,21 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:7af7aeca98e7b5324b",
+      "title": "The Commodities Feed: Stronger dollar weighs on commodities - ing think",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzBza0FiVkFmWEh3OVN1Y3FQYlZ6X2xGeVhxZi1JNWthVFdBQndMTF9iOWxnRVFGZkUzcW45aV9IMUl4MXgtX2dZTHFHWGhqUWFnRWJvb3FCNU95eWFoeC0zb2gybFkxdnJFOW9hb3Z0czY3QlYxWWV1dnNmQ1F0UnAxZ2hXY3FGY3hZNGprNExPUVlm?oc=5",
+      "published_at": "2026-11-13T21:37:44+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:ff87c2bab552301850",
-      "title": "Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase - Bloomberg",
+      "title": "Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3F2NGZ0c25jVUdYLU1WVFUydUJtUHQwWm9uTHlQbG10SHFHLUpZUndrUzZNR2ZwRFBqMUdKNDQ4NmlnY0dDS2hjR3hkenpsZlo1Q3Q2Q21pV3c4dDRFNmdSTnJPejNNR191a1RxVFd5dDNIYkhrb20wcWRRREFCTHFlOXJ1cXZGRlFLRC0ybWNyS0sxODJoWTBBVlFCZDM3S0tSdm9BREUzSVZnQzRiOXc5OXY?oc=5",
       "published_at": "2026-11-13T21:33:54+00:00",
       "source": "黄金与宏观新闻线索",
@@ -434,19 +473,6 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:7809992b17dafdc821",
-      "title": "US October PPI on Tap as Bitcoin Sinks Below $70,000, Gold Breaks $4,100 and Rate-Hike Bets Build - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ncWgxMEV3SVRodjlIV28yMzJFNDRkT1dwLU41eUxpYk1xNExSSnBmaDVXTVlIWDJPSjhRZGRUbjBMa3F6NzBMVzdYbEpabGtZTGIxTWxmU2NiWjcxRXpiVmM3WVFMbWd4VFZZR2xfNmpCZDc5aWc?oc=5",
-      "published_at": "2026-11-13T14:03:19+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
       "id": "rss:0c88caa21f1fd2f551",
       "title": "Gold rebounds from 13-month low as PPI complicates Fed outlook - Kitco AM Report - Kitco",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHhsRVdzdDdzX29SbU5XZElHR1JvQ3I0ekhDckpVU2s2MVJRY2djN29JaTk5dDE2bG5PRGlCY0JHajlyaVZiTGhmdlJ4aDFDQ3h2V3ZYZmVBcnZwYTBUajg5V1prR0xyeS1kbWQxRDlUZ3c1YkhPaFZVS0xwcm5HSGFIZXhScmt4UHd1c01pdzJCbG5OaDNYTVl1TWNObFFqNEF5VElLQmN0NGJudXBVOVFKMDdlaGc?oc=5",
@@ -486,19 +512,6 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:bfb3a62d0e8c3ba430",
-      "title": "Daily Oil, Gold, Silver Technical Analysis - Friday, Nov. 13 - TalkMarkets - Howl.Link",
-      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5LbXFqZmN5enNURS1wNVdtUGJBRXNBU3RVMnNYWkZ4eHk2VUlzOEFZVGc2Nng0T3FZYks4?oc=5",
-      "published_at": "2026-11-13T12:12:00+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "mixed",
-      "reason": "油价或供给新闻的黄金传导取决于通胀预期与实际利率。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
       "id": "rss:0a28a3d2a89834183c",
       "title": "Gold Volatility Outruns the Dollar and Amplifies Rate Shock Selloffs - StoneX",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0VJVDNDamtvcnE4Rm9FdTk2MXNPZThPdk80YWo4d0RmM2NNRUgxQlp6eXpOMG9faWx3TjMyenI4eWVzUWRRNmdVUzBPR3Z0OHF5WVppNkNBWFBGV1oySEdkSDNwVVptOEREZUFxTEdKVklrSHZxZ2NscGJjTG5rbkJNanNZbzlfSVNKcWFRUjZsS3o1d0VJUHpOYzhXS2EtM3ZvVmFkTQ?oc=5",
@@ -507,32 +520,6 @@
       "group": "news",
       "signal": "unknown",
       "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:83ab26057bf79387ea",
-      "title": "Gold Rises Above $3,900 as Higher Treasury Yields and Fed Rate Expectations Weigh on Weekly Performance - Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VY3ZrdHVmdjE0ZGxFSUtfeldueE5DMWVWb2ktV0hSREI0V1ZMV2pyOENkZThYTkl3ZGdFUlNmY2dnWXRHNnpaZmJWOUpUWjNsU0gxd2gydnBLTlRYMi0tZE5UbEZIZ2VSLVRoaEZialJXcHhlaTB3QWZ5dw?oc=5",
-      "published_at": "2026-11-13T10:09:45+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:91bfcb4cf579810fe8",
-      "title": "Shafaq News..Gold rebounds from one-year low ahead of US inflation data - شفق نيوز",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXVxamlfQVJxVkRwZjBpbjNxaUNHV3k0N0tWZXVkeFB0ckNzc1UzaHN1QTlFRTN6eU1BbFBfb1VmaVRLLVZ6UmdzSmY2UExlLTIwb2pPY2dza1ZNWlBZVkF0X3FpdVJDLVROcVVZV3RUX09UT3pzM2g1S08zdEFEQWdrTW9fdkJZU19qX0N6VzU1Zw?oc=5",
-      "published_at": "2026-11-13T08:19:35+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -590,10 +577,10 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:52e372cb37607dfd6c",
-      "title": "Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTJybnByRUZtMk5uajdEUVROVDJnSmZlQVRsazNHSmZaY0FKMVM0d0tvVnhDdlozdUhuMkx4ZkJZV0IyUDRCMmxtSzF0U3RmWWkxckVJVVVUV1pZczI2dmZfN29TYmN0YkVWMml2X2NJY1liZk1WeWFVdXNHbFpqdHBVWmhMTE4zTHozN2l5ZGFOWVBxWVBzTVB6V3dLeTR5UmlYYTVtN0xJQW5MMTVRdUJn?oc=5",
-      "published_at": "2026-11-12T11:17:15+00:00",
+      "id": "rss:04c7cbef7a93e5c3eb",
+      "title": "Gold, silver extend losses as Fed hike bets lift dollar, Treasury yields - Kitco AM Report - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2FfZ2tjdFBvYUFBZmF3dS1POW9vSFF1ZTUzNDZoeGJGYVZ2blRiNFRZUERVdHNnZXFoZXVaSGF6OThYTGRKdzhOUGw2UFVUYzR3clAwWEd3X2I2ZUd1T21NTVBRV0xNRjl3c3hWYlZlQnNkc2Qyb0JKZnZtVmprdWVmQVY2dkQ4VGZSSGZhNWtzQmdVakNjNzljRFNPVVNTaVcwZU9yV3ZiQ1ctdkJmQjJPd3ZYSEl0eDN3?oc=5",
+      "published_at": "2026-11-12T13:59:41+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -603,10 +590,23 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:25775fa22f0a93739f",
-      "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHlpb0xtblhxMVdhVkM0ZWtJb19QV1hGbGN4UHh6YnVmZ01HcjVXTDZzUVcwbWhzdGt5TmtPM08xclJ4N1hyclFtMUJ1Yjk5Q1NsWF9Bc2ZYTjNzX0xpN0ZkbjFmekV0SS1GUmphX29XTkdQSHRNd2h6ZVhUeG9mMlNsbVVaZ3VjblVVOVN3V05DVTVZSTVXWU1JelNqekh2QmxXStIBqgFBVV95cUxQQk1TTFJlRGJvaFNSX3dLLU9RdWl1QXhlUmlRb21FbTJsbmpLdkk5UXhIdWtFeHNRRVBVVFBNSFB6U1poeVptQnNLR0dmeWcwSkdjMjMxLThDcFQ1aVU2Mml5enZUREhqazQybUFEbTF0SEhYR09pbVhJbGtGMVcyNXdQZGdCQmdUREZjSGZKaEJJY295U1VwUU5qTTAtUnduUU96ZFRIekc1QQ?oc=5",
-      "published_at": "2026-11-12T03:57:00+00:00",
+      "id": "rss:76f3a22b30f16a430e",
+      "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc09mRGRCVmlxTnVTdDR2Y0ktNjVkZE1xUHhyTnZWUGZvbFZFS2hsTFk1SkVfNE82SVZlMTFXbUFtckZMaDIwbzA5RlgxWUxKbE5ZMGhrRkl1UWFrVG9ibW9mdWlGM0NYRTVlQnZramhHSTVadmtEaFhWMDRFY1dYVWRPX1RzNm9YNURTVUVzeGo2aEo4UzZReXRCVlQ0amhjVGFWTU1BVFVQR1k?oc=5",
+      "published_at": "2026-11-12T12:08:58+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:6c785e94adc5fd207e",
+      "title": "Gold Drops Below $4,000 Again. Will Friday’s Inflation Data Deepen the Slide? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOem5ud2xHcjNQNnF6SUFSQ2dKRzNHVGhjTDRFbTRETW5sVkFteGw1cHNjVi0xdDlLNER3X0I0NjZXVTB5WlJUUVc2a0d1dVNQRjhmOEVEbHJtV3IxbWR5N0p0Z0MzZnp1dEk1YWo3SnMtb25ZRHJWQ2pCUUdYOVA1Z2staFg2MTFmeW5VMkhnYXg1RjdaQkM0?oc=5",
+      "published_at": "2026-11-12T11:22:47+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
