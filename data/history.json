@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-14T10:36:05.651691+00:00",
+  "generated_at": "2026-11-14T17:07:56.445569+00:00",
   "events": [
+    {
+      "id": "rss:585ff2bdc9d3eba142",
+      "title": "Gold Price Slips to Key Support as Fed Rate Risks and GLD ETF Outflows Build - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSGM3TWZaYlNGVlJHRnV4OXNWNG5iWU9SN3hQYzRibnprTldmMU9oVXlwYVBXWWlfSTd3MXZsMXFZZGw2Ui05Y0xxTGVqRUhLSThyUWg3RDA2LU1SUFVxRVR4OWVWN0lZQmRMbjBRWXpQdTc5UzhMVDRRTHdxVGVINGhwRzdzS1hhQS1IaWxnYTZYN1NDRGRfN3NEVWhlclRRY2VfQ0Q4SDlGVnUxa0NDWEdfbVJWQXY1dGFDN3VYaTNYOEliTFl2SFRyZ2dLYVF4YlE?oc=5",
+      "published_at": "2026-11-14T15:30:05+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:bdc189d0a720344978",
+      "title": "Gold forecast: Inflation data could determine metal’s next big move - StoneX",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXlyNEFhcTZFcmxDZ2lFcFBtT2lxcU9TbkNfcjB1ZHBvYmRwVXBvNkNWVy1fVGJMT0psQzFTdUpoSVlNSkpzVFZ6bExQRkFmSThST091c2EtWVlBbVo1c0xVNW5lcElFZjNab0pucUtQY3NqSDRQaFpjWU1kN0dsekd3bE80LTFSdEM5NVRWendfMlgyYVNtdklVYTZXYzkyM1lXTldFUXVZU0t0WUtUdldGdXhsTnRkcGYxLThLbEduc0U?oc=5",
+      "published_at": "2026-11-14T09:56:36+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
     {
       "id": "rss:8a2fe62f1afc683d79",
       "title": "Divergence within the Federal Reserve has widened, with gold caught in a tug-of-war between “inflation diffusion” and “energy shocks,” leading to a weekly decline of over 4%. - Moomoo",
@@ -29,13 +55,13 @@
     },
     {
       "id": "rss:15782d09b01a32e093",
-      "title": "Gold Plunges 4.78% in a Week, Biggest Drop Since June, as Fed Rate-Hike Bets Weigh on Precious Metals - BigGo Finance",
+      "title": "Inflation Exceeds Target for Third Straight Month, Fed Hawks Roar as Gold Crashes 4.78% in a Week, Breaching $4,000 - BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXUkNjYUs2SUNzSEFKQ0gxbno3S2I0NmV4S0RfWDB0UEdYSjA5a3U2VmQ5bXFXdGtLV1FXWUFwVmZXekM4OEwxeVR1Vy16RjA1cVpRbEM2VVdwTEpFVmhwTC1jRFhmcXNLd1gwc0tLYmFvYUZJREE?oc=5",
       "published_at": "2026-11-13T23:55:00+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -873,6 +899,19 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:c220f49d3347377885",
+      "title": "Gold falls as hot inflation figures, higher dollar weigh - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5",
+      "published_at": "2026-11-12T06:29:37+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:92446ca9ec94fcee61",
       "title": "Gold Price Forecast: Tests Support as Dollar Climbs - FXEmpire",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1RuTnZFNUFEQWN1VU9TeTA3LWZGUGZZdDRoRE5LSkVJTGJ3Yi0zemhIVzUyekkyVDhRTWxMRUtLeGh1enNyUlJvc1FvaDJBdTRZVUQ1R0dpdERYM2JTN2thZW1GVElSS1ExYjdHRnZ4TlZIeWlhSDVhcUpCT2JuUFdHd19RLVJlT0VaYUVuX2xIcTlicHBPcHZzbUJ4WEhvOFFJ?oc=5",
@@ -1456,19 +1495,6 @@
       "title": "Gold falls as hot inflation figures, higher dollar weigh - CNBC",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTS1uTUxBaFRYanlOdkJLcG5HMlZHX1pnNlFOZmJBMnlsV1lWczJNY0JNUmM0dUFFTkhlTUVBdkFSYXZzZG9ZeGpvTEE4eHhoOENyM3ZLTW1jQnQwa2s2NVMxeFU1TVFUcHlKdEtDNWl4X3dQenlIMGp2ZnRaTDhiX0xuZjFiVEVocFNkX21CSE9lUlc5cHdIam9B?oc=5",
       "published_at": "2026-11-11T03:49:00+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:c220f49d3347377885",
-      "title": "Gold falls as hot inflation figures, higher dollar weigh - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5",
-      "published_at": "2026-11-11T03:39:00+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -2359,19 +2385,6 @@
       "group": "news",
       "signal": "unknown",
       "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:bdc189d0a720344978",
-      "title": "Gold forecast: Inflation data could determine metal’s next big move - StoneX",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXlyNEFhcTZFcmxDZ2lFcFBtT2lxcU9TbkNfcjB1ZHBvYmRwVXBvNkNWVy1fVGJMT0psQzFTdUpoSVlNSkpzVFZ6bExQRkFmSThST091c2EtWVlBbVo1c0xVNW5lcElFZjNab0pucUtQY3NqSDRQaFpjWU1kN0dsekd3bE80LTFSdEM5NVRWendfMlgyYVNtdklVYTZXYzkyM1lXTldFUXVZU0t0WUtUdldGdXhsTnRkcGYxLThLbEduc0U?oc=5",
-      "published_at": "2026-11-09T16:35:29+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
