@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:55:54.266868+00:00",
+  "generated_at": "2026-11-15T09:26:47.446117+00:00",
   "events": [
     {
       "id": "rss:1dfec7c5083083b7e2",
@@ -106,6 +106,19 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
+      "id": "rss:7236f2a2aa411506c7",
+      "title": "Gold under the pump as dollar sensitivity surges - StoneX",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUTdpaDBlNTRHRHlNWGlQQ3M5V2x6U1AzdFV3d0RxZU1UV0RETXVwU1ItNmRvcVBsbXZhckgwdlhwbDJXcW1wekpqNTk3Q1g1cFU5VDUwRnBOdkZ2U0pBdlhYYzVYcV91bEU3SWNWQWNITFlGT28wdmtIdnl4Q0JZa01QZXdhRENLQUo5Y1FWbjZMODlIQkRLclZlZzk?oc=5",
+      "published_at": "2026-11-13T22:59:19+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
       "id": "rss:958abd0220e6bea822",
       "title": "Gold posts steep weekly loss as Treasury yields rise, Fed tightening bets persist - Kitco PM Report - Kitco",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0k2NHE2ZjJka2ltRGxrN2ZDN1JKQ1FBZnRxT240TTRqcmp5Qlp4UWkwQWtVM3dFTXBtYU5vNkpYQXFQRi1vQ3FYRG5fd1J5YTdrUjc1RjMwRGhVeHZJdEoyYmdQTGdTbW1QWVFiQVkwXzVELU9mOFBXdEdBbnZ1M0VaODNDckVvb2hfanpQMXJRdWVBOGdiWldtM0xlYWxUaEM3NFVPMnJaLTdlYlFEN2o2dzNuUQ?oc=5",
@@ -205,6 +218,19 @@
       "group": "news",
       "signal": "unknown",
       "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:9b6e18b82a91b38e14",
+      "title": "Rate-hike bets keep gold on track for worst week in four months - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
+      "published_at": "2026-11-13T17:30:34+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -448,19 +474,6 @@
       "title": "Rate hike bets kept gold on track for its worst week in four months - CNBC",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONDhBMUxOVE5NNmVSclhvRGR3NlVvdUJ2NWtHMGZxaHJuTTNSN0NlU1EyWlhMeWlkc0NPOVB4UFZrUUFleFBwZnRMdGxQYWxoR1BkYWsxYmxNSDRadTdFckpCd3JZN0FOVENFNEJzbDVQb2xwSk93VnBYajd5U3ozQm9NN3ZnbDdfcThJSjhuV29MREZ6RXhJS3ZLMNIBoAFBVV95cUxPazNRNjRId2p0TWh6RGEyMGhScDdSN05xb1BPQllZMWxNWmNmVmFJdHJGbnIwcnllQXphX1FRa2QxcnJtZUxISmgwaXpRWFVtV3hSNGRkUElzQnlHYzNHZ0xEXzFiSnZfaHNkc3ViOFBTTjZfVVNkTkVHRmFhYjI0SVZsVzJHNW43bXdfcm9sdjFMTUd5ZEZHbi13UkdHbnlC?oc=5",
       "published_at": "2026-11-13T04:43:00+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:9b6e18b82a91b38e14",
-      "title": "Rate-hike bets keep gold on track for worst week in four months - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
-      "published_at": "2026-11-13T03:43:00+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -994,19 +1007,6 @@
       "title": "Gold extends losses to one-week low as dollar rallies on Fed hike bets - CNBC",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHlpb0xtblhxMVdhVkM0ZWtJb19QV1hGbGN4UHh6YnVmZ01HcjVXTDZzUVcwbWhzdGt5TmtPM08xclJ4N1hyclFtMUJ1Yjk5Q1NsWF9Bc2ZYTjNzX0xpN0ZkbjFmekV0SS1GUmphX29XTkdQSHRNd2h6ZVhUeG9mMlNsbVVaZ3VjblVVOVN3V05DVTVZSTVXWU1JelNqekh2QmxXSg?oc=5",
       "published_at": "2026-11-12T03:57:00+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:7236f2a2aa411506c7",
-      "title": "Gold under the pump as dollar sensitivity surges - StoneX",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUTdpaDBlNTRHRHlNWGlQQ3M5V2x6U1AzdFV3d0RxZU1UV0RETXVwU1ItNmRvcVBsbXZhckgwdlhwbDJXcW1wekpqNTk3Q1g1cFU5VDUwRnBOdkZ2U0pBdlhYYzVYcV91bEU3SWNWQWNITFlGT28wdmtIdnl4Q0JZa01QZXdhRENLQUo5Y1FWbjZMODlIQkRLclZlZzk?oc=5",
-      "published_at": "2026-11-12T03:54:08+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
