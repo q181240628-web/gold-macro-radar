@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-15T17:11:08.244243+00:00",
+  "generated_at": "2026-11-15T21:49:59.980795+00:00",
   "events": [
+    {
+      "id": "rss:5746fabc6b14aecb1f",
+      "title": "DOREX WEEKLY GOLD MARKET UPDATE – w/e 13.11.26: Gold Faces Renewed Pressure as US Inflation Reinforces Interest Rate Expectations - getthewordout.com.au",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbVlFT0p4MGd5Q3VXR0hRUFpNMkdxR3ZvMkpDM3gzX3ItM21md21aTF9UcEwzUlZjbDlEVFFvdXdSdTEyZnZJc21SYnpWNklWODBTNkdFRGdzTVNLeGlVVjhkWEU1VVJsMkN0M1RwNW43UjN6eVVnb056VE8wcXVCV2g2Z3kzMWxlbTdkT3dhbk1OeS1KaUxndHNFLXU3c01vWlpnZE5oSTZfUDR1TmtlcE9PRGVWbklqcE9nTHNCQ3VOX0pTcm5kYkRZMU5kWTdxZVFWZnAwTnVfR3Z6WWQxN2pLSTVlTkJqTk11Rm1WcThTS3ZfSG5tLUQ4cG1Cdzg?oc=5",
+      "published_at": "2026-11-15T21:07:07+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:cac6320545c529b398",
+      "title": "After challenging the U.S. dollar with Chinese yuan, gold-rich Ghana reveals that sending 50 Chinese engineers packing for local talent saved $42 million - Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNci13YUNtcXJtVWwyb0JWRjhJTldsNHhsUWFrNk9oek0wa09PbHpaYXhuLXVZSGg0RGJUd21BWlB5eThrb0JtU3UtdlVCaUMxd0IwR05yazFON0ptTlQweUdFSWs4dEx3RURQWERvWjg2NkgxMkRGWXVnWGp1dlZQd0VrSWZOX1NlUnc5OF9hbU4yYmtYQWlMTGNnbmhyRmRaQU9pSXJ2SEFSSnE0UHoxeGc3QTJ2YVdXZ2pEOHl2dmZ4ejRqei1DTUZNTjVPdy1rdlVKcTZR?oc=5",
+      "published_at": "2026-11-15T18:58:14+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
     {
       "id": "rss:23173c1e5f51cb9bba",
       "title": "Gold Prices Crash 4.1% on MCX, Silver Falls Nearly 5% Amid Fed Rate Concerns - AP7AM",
