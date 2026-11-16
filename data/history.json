@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-16T09:44:06.435968+00:00",
+  "generated_at": "2026-11-16T20:29:14.425799+00:00",
   "events": [
+    {
+      "id": "rss:9edfd9e13a9f13db6d",
+      "title": "Warsh, Opening Remarks",
+      "link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:a37c8fdd62b23f65e1",
+      "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+      "link": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+      "published_at": "2026-11-16T10:00:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
     {
       "id": "rss:348fe21fcbc5bd7df7",
       "title": "Gold falls below $3,900 as December Fed hike bets build, Warsh in focus - Investing.com",
@@ -650,6 +676,24 @@
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "obs:VIXCLS:2026-11-13:19.3",
+      "title": "VIX恐慌指数出现显著变化",
+      "published_at": "2026-11-13T00:00:00+00:00",
+      "observation_date": "2026-11-13",
+      "source": "FRED（源自美联储/BLS/BEA等）",
+      "url": "https://fred.stlouisfed.org/series/VIXCLS",
+      "signal": "mixed",
+      "reason": "VIX大幅变动说明风险情绪变化；避险买盘与流动性抛售可能同时出现。",
+      "kind": "metric",
+      "confidence": "高",
+      "value": 19.3,
+      "previous": 25.64,
+      "delta": -24.727,
+      "delta_unit": "%",
+      "comparison": "较前5期",
+      "disclaimer": "仅比较已公布历史值，不是实际值与分析师一致预期之差。"
     },
     {
       "id": "rss:49cefed894a73a8510",

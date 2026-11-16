@@ -1,6 +1,6 @@
 {
   "status": "partial",
-  "generated_at": "2026-11-16T09:44:06.435968+00:00",
+  "generated_at": "2026-11-16T20:29:14.425799+00:00",
   "factors": [
     {
       "id": "DFII10",
@@ -116,12 +116,12 @@
       "id": "VIXCLS",
       "name": "VIX恐慌指数",
       "category": "vix",
-      "date": "2026-11-12",
-      "comparison_date": "2026-11-05",
-      "value": 18.7,
-      "previous": 28.18,
+      "date": "2026-11-13",
+      "comparison_date": "2026-11-06",
+      "value": 19.3,
+      "previous": 25.64,
       "unit": "指数",
-      "delta": -33.641,
+      "delta": -24.727,
       "delta_unit": "%",
       "comparison": "较前5期",
       "signal": "mixed",
@@ -132,7 +132,7 @@
       "url": "https://fred.stlouisfed.org/series/VIXCLS",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 4
+      "freshness_days": 3
     },
     {
       "id": "T10YIE",
@@ -160,8 +160,8 @@
       "id": "DFEDTARU",
       "name": "美联储目标利率上限",
       "category": "fed_policy",
-      "date": "2026-11-15",
-      "comparison_date": "2026-11-14",
+      "date": "2026-11-16",
+      "comparison_date": "2026-11-15",
       "value": 4.0,
       "previous": 4.0,
       "unit": "%",
@@ -176,7 +176,7 @@
       "url": "https://fred.stlouisfed.org/series/DFEDTARU",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 0
     },
     {
       "id": "ICSA",
@@ -290,6 +290,32 @@
     }
   ],
   "news": [
+    {
+      "id": "rss:9edfd9e13a9f13db6d",
+      "title": "Warsh, Opening Remarks",
+      "link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:a37c8fdd62b23f65e1",
+      "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+      "link": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+      "published_at": "2026-11-16T10:00:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
     {
       "id": "rss:4909338736a71b2f2c",
       "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles  and the Macroeconomy",
