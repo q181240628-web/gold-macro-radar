@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-11-17T22:23:43.635253+00:00",
+  "generated_at": "2026-11-18T04:20:57.708821+00:00",
   "factors": [
     {
       "id": "DFII10",
@@ -22,7 +22,7 @@
       "url": "https://fred.stlouisfed.org/series/DFII10",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 2
     },
     {
       "id": "DGS2",
@@ -44,7 +44,7 @@
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 2
     },
     {
       "id": "DGS10",
@@ -66,7 +66,7 @@
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 2
     },
     {
       "id": "DTWEXBGS",
@@ -88,7 +88,7 @@
       "url": "https://fred.stlouisfed.org/series/DTWEXBGS",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 4
+      "freshness_days": 5
     },
     {
       "id": "DCOILWTICO",
@@ -110,7 +110,7 @@
       "url": "https://fred.stlouisfed.org/series/DCOILWTICO",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 6
+      "freshness_days": 7
     },
     {
       "id": "VIXCLS",
@@ -132,7 +132,7 @@
       "url": "https://fred.stlouisfed.org/series/VIXCLS",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 2
     },
     {
       "id": "T10YIE",
@@ -154,7 +154,7 @@
       "url": "https://fred.stlouisfed.org/series/T10YIE",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 0
+      "freshness_days": 1
     },
     {
       "id": "DFEDTARU",
@@ -176,7 +176,7 @@
       "url": "https://fred.stlouisfed.org/series/DFEDTARU",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 0
+      "freshness_days": 1
     },
     {
       "id": "ICSA",
@@ -198,7 +198,7 @@
       "url": "https://fred.stlouisfed.org/series/ICSA",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 10
+      "freshness_days": 11
     },
     {
       "id": "UNRATE",
@@ -220,7 +220,7 @@
       "url": "https://fred.stlouisfed.org/series/UNRATE",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 47
+      "freshness_days": 48
     },
     {
       "id": "PAYEMS",
@@ -242,7 +242,7 @@
       "url": "https://fred.stlouisfed.org/series/PAYEMS",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 47
+      "freshness_days": 48
     },
     {
       "id": "CPIAUCSL",
@@ -264,7 +264,7 @@
       "url": "https://fred.stlouisfed.org/series/CPIAUCSL",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 47
+      "freshness_days": 48
     },
     {
       "id": "PCEPILFE",
@@ -286,15 +286,145 @@
       "url": "https://fred.stlouisfed.org/series/PCEPILFE",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 77
+      "freshness_days": 78
     }
   ],
   "news": [
     {
-      "id": "rss:da1a4fa1d8026b7519",
-      "title": "Gold Weekly Forecast: Strong Dollar and Rate Hike Bets Add Pressure - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0lDUzNyWktLdGtvcDJwMXJZblJnV2ZVMFZZOG9SXzQzS294UGo5QWR1QkNaTmNkcGxJZzRCVFlMN0NNcnNFdkMyWFNCcFE0MVJreDdEa0szcUdFVEVVdWRCdWpINHlSVHMtaE9velhranVFenBqUUJPa2J3ZkdESnFkN2l2dmU5Ymdna2RhMkdEeEhveTNoOVh6clF4QWx0bnpuc1hpcFh3dnJWV28wLTl5V1QxdjFB?oc=5",
-      "published_at": "2026-11-17T21:13:49+00:00",
+      "id": "rss:a71b27b77ac85331fb",
+      "title": "With hawkish signals mounting at the Federal Reserve, a December rate hike is all but assured! Will gold prices fall further? Keep an eye on the meeting minutes tonight. - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSV91MHdWWU85aXROZHB0dHhva3FyTDNFM3dtbzE2VVlNM3JiTmREZHp6aGN3bkpkR3ZGNW1mMkdfYi1rQzJUYmN3LU5QM29kVVQxV3lLTmtBcXlzckdzZk5kRW5qTUpLbmhHLVlqLTY2TEFILTRKWHVfZEFKQ3NSbmszWUg1cGQ2Ym1vZTZvNkRsOGgzelNWZWRDdWwzTWdHRUVxbGs1ZkMzQQ?oc=5",
+      "published_at": "2026-11-18T03:56:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:cd9a607c581415c2c2",
+      "title": "$3,800 caves in: Gold sellers remain unstoppable ahead of FOMC Minutes - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnVkNTNmVW53LUw4TUdGbzk1b2M2NlQ1ZDZORWNQM3Y2Ny1tY2hxdVA1TFV2VzJhZEs4eEpwZ05kVnA3bW9KU1lISXFhMmYxbjZGWXd4SExaVHN0REVfZU9US0lqRmszaktMTFIzYV9fbTFidmprMHBqNnBDbm9hSUVCM2pNa1piU04waV9ucXFtUzdvSkNYSHJEUUluZzdWWjNCeWUxcXk3VkdKVEI0WEE1bDZ2UQ?oc=5",
+      "published_at": "2026-11-18T03:51:17+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:033fc940e6056a3c06",
+      "title": "Rate-Hike Bets Bite as Spot Gold Breaks Below $3,800 to More Than One-Year Low - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQeC1KQUFrZEtONFlCTkRRVkQwcjJfT3lISkM5MThRNlREUmtHTkllRGVYR1pvUWdic0xDMjRLeVcyUFF5bnh0VXZqdUpMZXV4b080WXZZbEdndG1GOGRjUmJsUkZ2VThEWGtBMEd5MVhKYlkzYkE?oc=5",
+      "published_at": "2026-11-18T03:25:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:870a10f9f070ba7b7c",
+      "title": "Gold slides to over one-year low on firm dollar, US rate outlook - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
+      "published_at": "2026-11-18T03:10:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:cf6470289938958246",
+      "title": "Gold Plunges Below $3,800 to 14-Month Low as Fed's Hawkish Signals Crush Bulls - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41SjZESWFGZUFYRmQxeTVFWVRTemlXMllxRXdCU1JSbDBDc253WlR2eE1tTlRpZkpld05YRG9naVczaUVYX1p0Mjh0UmlqRmFiV0ttVW5MeUhDYVlHVXVfWmtNUWttSmpYOTU4THZlRHFmdmY0Ymc?oc=5",
+      "published_at": "2026-11-18T02:55:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:b02d20e7594b58cc79",
+      "title": "Gold Stuck Near One-Year Low as 10-Year Treasury Yield Breaches 5%, Draining Capital - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hSXRiZE5aZUZQV1pUN2JPT21McUk0Z1hYTkQtYjlkeERTaHpJblRiUEl2TjBPUGFYX09MeXhMMndSLUNvWlo2ZHlFdEZJbTNWQTRRRGdsTXoyeVRjZi14QUdZR0FzQ1JkTkx3RmgyOEZfZTJpN1E?oc=5",
+      "published_at": "2026-11-18T02:25:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:eb72f48c3873bfb298",
+      "title": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmlWeXc5bFpQUDI1bkQyQVVEMmpSRC1ZUWpkZDczNDU5RUxoNFBzOXpreXZnOTctS0s1NGRBcW5Bb2ZUVGxMSWRiZU5ydWpKYkpaM1EteFZsdHF2Q1JVN1hWOW9aQm13ZlFmVWVuWVI5S0xJVFdUaERVT0hab2tCOUpBSzhvM2ZvczNFd0hNYndoREJ2d3llcVRRdVZ2VUFqZ1VBSGVYY0d5MVREZEp1MA?oc=5",
+      "published_at": "2026-11-18T02:16:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:32147995bb38ee4a76",
+      "title": "Breaking: Gold slides below $3,800, lowest since September 2025 on hawkish Fed, strong USD - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONHdiTUl5N0VVQkRKXzJCUWlqNEJHMnlTY2xOYktlclozNm9XdG5oWjZyRUtkZ0VweVNGUjNteHhMaFkxRzQwcGFMRS1RN2pTOUdJVVZJYWdyMjVleEFSVWtrSlBXaXN4ZDFkbFhDUkxmdmtibm5pRXJid3FkbGY1cmVNdFNHdFZxeXN3cnFDRWVROTJ0ZFNYUVN1RFVPVjBNdUFCdndoVElSTWdBVHVaUU1MR3UwSExoaS05QjdqZUp2LTVhczUtXw?oc=5",
+      "published_at": "2026-11-18T02:12:44+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:a0d3ab5ea386392176",
+      "title": "Gold falls toward $3,800 as Fed hawks reinforce rate-hike outlook - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdV9IVnZLcFhYNmM5d3UyYzVXV19hTE5GYUxSOXYxNDNZbHZJRWtkcVZQQl9MTVQ5Tl96cmhYNTVJX3FMNG9pMVF6bUphTUxaRXBwV3dBcTZzclBZb0I2QXFKNl9LbFJHTHc0WVRYM3MyREFzT1VXZ0w4VXFJcjlUV1ZhWmloZk9MeUd5ZTJUbW9yT2RXeWtpY0pJdk5ROVhXRG83Qk5wZ2EtVlVwY2hEQ1Rza0J2bmFqckE?oc=5",
+      "published_at": "2026-11-18T01:14:02+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:43683bf688f0d6f77c",
+      "title": "Gold Treads Water as Fed, Dollar Keep Weighing - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1ZVcTNOb2gtUFpBRXIzbDNyaGpyVzJMZ2FTZ1FwbE1KR0dmTjNuNzYxVnNPVFNYaTlKeFhBMllWX3FNVi1zbzNSejNrSXFNMjNGSjkxeWtzVWlDUjFEMG5MU19VQmNWbzNMX0tsTDZSQnJkVWZWZDdGWlJLRm40NVJHQ2p1SWNsbmM1LUpLMDZnbHExRW8wbUsyc0hRLW5oaVRCLQ?oc=5",
+      "published_at": "2026-11-17T23:59:00+00:00",
+      "source": "黄金与宏观新闻线索",
+      "group": "news",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:82379de630ff18e28e",
+      "title": "Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1BJTVFELVMzTzdSNWZydElEbzRtUDFsQ2RET0dab0lTM3VNZDVSVHgxeVdDbDhENmktSk5IbVlXVHkwSjZaOURlTUkza0dVSXBISTV4eTFUbmZyR3JwcU9aTE9jbDFKdnphSkdLbkdndjg0eUctNUI4MGczTEJEV1I4ZUduWWVIY1FZeEpfMVB2SzJILXJqcGFvazVLY29ZU2JSLWJKWWdCRGp1OUZ0QlBGSHhQSlM5?oc=5",
+      "published_at": "2026-11-17T22:06:24+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -317,23 +447,10 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:9916018565f3d453f7",
-      "title": "Gold struggles to rebound from one-year low as US dollar, yields advance - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ0dYS19aR2puUnAwS0ItaTEtbWdZSlI1TmVqbmlGTEVCZm5xU3ZoYTZSeHpWdE9DN2NuRmQxRDRNbkZjQWJnWVN5ZmJya3VXZFM5ZXhLTmJYZTFGOG9NaTAxWm40MXFvZkNBbW1wc1ZWUUR5NFRXSTBaV3o2SjFoUy1qUFNaR3QzbkNranhiX0FQUUNCMm5nOWRPQ1Vqcm1EeW12SXVhZ2VwV0w1WGppUmdjZHBqQUo4XzdYQ3hJYlF5NWc4V1ZCSW4yaDN5eUVjb1lrdE5RQlo?oc=5",
-      "published_at": "2026-11-17T19:14:36+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:56a1712deb643cedd4",
-      "title": "Gold rises as U.S. Treasury yields and dollar strength challenge international demand - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd1VxbTZOMUhMRjBBZ1N0ZU5kaE1EcFRLS1pFSV9mQ0N5ckE2QXA4RGhxNkoydTFZaWtaZ3ZzNEF6d1BwZkRpWXg2Y1VkOTRoSU1IM2pra3pGVnZZVkZhcFBzQklQMkVDclJSMDFZM2Y5dFNPOXNGQ2Q2bmYxSmVQU1ZkZmFxTVk?oc=5",
-      "published_at": "2026-11-17T17:07:27+00:00",
+      "id": "rss:9c5274dbb04a562cae",
+      "title": "Gold struggles to rebound from one-year low as US dollar, yields advance - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2RhMzU5VGtPVEZOYXFvUTZHT0pnelh5ZnBHTHBZMUJIaXdiTm9Jb0hVcEctN1BMdU1FbWcwU3o5anY5Z0w1Y1JnTFpidzg4SFNUWDVZRTRCQ3BLeE1oUzY3RUZ4Nll6Wm1JekItQWRxcUFkRlFHMXk2WWc4WTBZTjFDWmdoQlQyNzJabTFYdWwzeHBHY2VWa0xkdzdkYU92ZVhVemE4Wkw4S0lYaUwxdw?oc=5",
+      "published_at": "2026-11-17T17:24:30+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -360,32 +477,6 @@
       "title": "Why gold and silver prices have fallen to their lowest in over a year - Yahoo Finance UK",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDJuREJBSTFrM1VBWWU2dkhfblZ2dHkxWEJsa1ZvVjVtVG9aTTJJZG1oeS1WM3QxblV0Z2JoWXE4Y0RkemFWZUpXcGczeUx4X09EeUIwVXBPNk1rSlNCRHZNM05PWEh4RkhldFdNNS14M1RwNnJTWDJvYjU4WkR2bTZfbU4?oc=5",
       "published_at": "2026-11-17T15:21:55+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:931ede68820002aaa1",
-      "title": "Gold struggles near $3,850 as traders bet on back-to-back Fed rate hikes - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEtWTjJMVFRtUzNQWVJIMlhHTV9DcHJHbXFfb3V2dl9talY1NFZTWGF1YlhqdUlUZkpyaWd0aGhJWk1tR1hUd1hjQjlLa2FJUEZBajdTNVZEbHdwN2ZjZUg1WTR0YmtmYm5VcTh6ZWZSMHJFMEpJVlFEM3o4WHFERzZOampRZUZtNlRCRWZ6RnF1NnVtNlUySTNhVWUxQXNjMkRjd1VQakRtRGkyd2g5ZG9VYUo?oc=5",
-      "published_at": "2026-11-17T14:47:39+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:6d24b58bba7aba9554",
-      "title": "Gold Holds Near One-Year Low as Dollar Hits 19-Month High - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oa2ZUd1BUU2Rhb0V6Nzltc2lmV01aMzJWS20tTHI3OTRiMFU2RmlQSzlwWmJncUJzclB2NTBCLVhvcVFUbnFwRkttWEM1MGoxSHZ4ZDliRWFHTWQyYWpjcWduZU9XOGtoaGJIQWo5VWJqRGJxZlE?oc=5",
-      "published_at": "2026-11-17T14:35:00+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -434,32 +525,6 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:375388a0608e080720",
-      "title": "Gold: Volatile near term on Fed outlook – ING - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb29zcE1sMG5BTjNvUy1ZY2t5U015Xy1fMm5NU0tiQnZnVWdMbTZVazB1dUNGZnNmMWh1M3padGU3UkplSWhFSnFXMURnODE2ZjRCZVNLc0NZQXlnQlI0M0NuZktRa3NQaWViRVVvQ1ltR1BCeEZzT0MwR1pwNnYtWjFCa0g4SGhkYURyMWF3?oc=5",
-      "published_at": "2026-11-17T12:52:28+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:6e0c9cb9eceff6bac5",
-      "title": "James Stanley: Gold faces selling pressure as U.S. dollar strengthens and inflation stays high - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjhzVTRxVC1VLUNLYk9sYnhYRGNITC1nZTM2QnF2Qm9mVWZiSHNtN01LVHZsQmpvekFSTXhrWkZZQm5aOHkydkZVSkpRdlZ4a19wdkllQUlZcU9NemNlUFhCVXhRaF9zQTdZTXJzUkNwWjhaN1otcHJrSVpnenVVbzNtRjZhMk15TmJIZENHRkc?oc=5",
-      "published_at": "2026-11-17T12:10:19+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
       "id": "rss:b401dabbaa6960b221",
       "title": "US Dollar, Gold, Silver Outlook: 2026 Extremes and Key Levels to Watch - StoneX",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUDljRjF3dng3YUhZZTB4RDk5Tzdzb2Y4Z3h4bm1JMHRlWERnX3F4X0NDQTFZSnBUSDhnN3lSTjQ3bzd1VHF3MW54U0tRZVR0ZzZPUkVzWFV2ZFJ4U2cyOHVSYkI0QmNGLVUyMk02QXBpSjNaRXFlQ2k0ZEFnWHZaWVhOWk1leVMxT3YySWdQcmcxcWNfM2k1TjBWTFJWMVlHVWdOQkFqbUJUMUt5bHVrdmVSUGNzM2Y3cVZiRXBDZGpzQnRN?oc=5",
@@ -477,19 +542,6 @@
       "title": "US Dollar, Gold, Silver Outlook: 2026 Extremes and Key Levels to Watch - FOREX.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT19uVGJvRkhLS0Z4NkFZeUhLbjZIVG1TdFFjYkt1cWZhQnRiVzZqeDY5eWlTeFByVTlqQVV0c2VKT3l2Vk5xN3A1QjcySUNscnh3Q0EzcHdVeWY3VURBSzhwVExXeFVJblpDNlNDRzltU0s0cks0dDhQWl85dFBfTjVCb0JFTWxsUkhnRmJ4ZU9QSGFQSUJiOHhPVHd6T0FCVG5LTGVQekJhcDltRDRDTVhFd1EtR09qLWJmZNIBvAFBVV95cUxOT19uVGJvRkhLS0Z4NkFZeUhLbjZIVG1TdFFjYkt1cWZhQnRiVzZqeDY5eWlTeFByVTlqQVV0c2VKT3l2Vk5xN3A1QjcySUNscnh3Q0EzcHdVeWY3VURBSzhwVExXeFVJblpDNlNDRzltU0s0cks0dDhQWl85dFBfTjVCb0JFTWxsUkhnRmJ4ZU9QSGFQSUJiOHhPVHd6T0FCVG5LTGVQekJhcDltRDRDTVhFd1EtR09qLWJmZA?oc=5",
       "published_at": "2026-11-17T11:13:49+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:1c685e9504dbe24903",
-      "title": "Goldman Sachs' 2027 Gold Outlook: Central Banks Underpin the Bull Market, With the Fed Holding the Key to the Next Leg Higher. - Substack",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTy1HMDBBaDNCVnROa3Y3Q2lBSTRUS0E1LWhDNmVwdm4tLXExd0R3ZjZWeUpDU2lwTzZkblcyUnl1NWhQUkFhVzRTTmdrcHN0andqSTl6WU9aTTBqODVKQ1JwLV9IeHFCRHIxdGU3TnFmS3R2S3VjRFZnSWxadDNQX2ZyVm9MTWZSOHpz?oc=5",
-      "published_at": "2026-11-17T10:30:49+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -525,36 +577,10 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:dfa04657b60918ee46",
-      "title": "Gold price consolidates as strong US dollar caps upside - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1BhZkVYLVJLdDhZd1ZPS0RNcjBIRzhwUnNxTFg5VGhLck0zNFNnb1ktOFBmNHRCRG1KZGpUa1gyLWFvOXd4dWFXd0IwaHVvTHNPYkZrZ1hWWnIzS0t2NmlCM0dlWjhBNVN6TzQtNkpua0NFcjd6YnRYT1Foekl1aHZnandNZUhWaUlDQzhKbl8?oc=5",
-      "published_at": "2026-11-17T09:07:32+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:a84fa3370358ead007",
-      "title": "Gold hovers near 1-year low as dollar rallies, Fed rate hike bets grow - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNTJiRjB0MFROZnh0MXNGMlcyUV8xZFpCM2VtNmVNdUV2MlVFTm5taWVVTGdtamtrMmhuYTNveFlUSDU3b085cDZCQUtZT1hWalVtTzF3NlhJLUU2dmUtV0wyTVdxR3J5NTZvbjd1dHJ0a1ZEM0VUTDdRMnB0Ynk1SEFnV3pBd1oyUlhLUkkzMThuVUhwTVdOb1d5R3cxU3BwaE5YNV9JZHpQbE5kLWtj?oc=5",
-      "published_at": "2026-11-17T06:48:31+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:25eee1ab8a0469fae5",
-      "title": "Gold struggles to rebound from one-year low as US dollar, yields advance - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2ZieG5kV0JmVE5EY1ZpbHZJRHlTaF9PdEtETnpWRy0yVGNYbzlFbmd6eF9OOEFtY1NLQjJ4RHBxc2VYU2xHNC1Hd2puN2lya1U0S2piMjhqaVN0VW1rYjZGYW9yVWU0Vk9JZlZ6RG0zcS1jM3YzREQxUVh3RHl2TDkxNVE3TVV1SGVENVRvZHd6VHd3cFhIRnlZV3FaZnV5emNNUnZkTU01Z9IBrwFBVV95cUxQZTd5RWd0eVY0a3UxblpTUnBuRXI5ek5ndmtidUVrOFZLSzVtaXZib3ctRExISUsxdXdHTVN3V24zdXBSUWNHb3VuLUdQNExVM1ZGVHYtZXlmTUppa2NOcjROQkFLVkwteXZKMDk1YWVkaER5ZmRkbGJjc1hzNm1QRWY4STFQSVk3M2ZVTk4wNjB6anBQXzVKOW5acnBRMGpST1RnZG1rYUdLMlhNelBn?oc=5",
-      "published_at": "2026-11-17T04:18:00+00:00",
+      "id": "rss:9a3e970f1ec41fa40c",
+      "title": "Gold struggles to rebound from one-year low as US dollar, yields advance - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
+      "published_at": "2026-11-17T01:47:00+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
@@ -581,32 +607,6 @@
       "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkNEMWt0MEpVV2U4c0tCZEQ0N3FJRnBMWEFJRktVNVpBNGZ4RWFjVXA0TnR0VE8yam5OenZaaF9KWVhuc3RCQkZXWGlwb0pPRElEM0JoU0Rsb3BpX2ZTUjBLUG52SUM1V2RkcHRKLVdLR1ZmeXFISlplcTRQU0xJMzZHcFBFbUZPVWtYeGpqbWxKU1gtQjMxZXBMZU5rdldKOTRaWXpNSkZqd3MwajRHUzVvSVI2QTBOb1dJMGc3U3VzdTFP?oc=5",
       "published_at": "2026-11-16T17:47:00+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:9edfd9e13a9f13db6d",
-      "title": "Warsh, Opening Remarks",
-      "link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-      "published_at": "2026-11-16T17:00:00+00:00",
-      "source": "美联储讲话与证词",
-      "group": "policy",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:4608efa3b2a6e32697",
-      "title": "Gold, silver extend losses as Fed hike bets rise, dollar remains firm - Kitco AM Report - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVGVSSlFXaDhDTy1CTnJudmRsTU5HMVFLNWF1WDlaeTlHR0hya1Z2ZHYyNmx1aWZkN1NMc0dha3NoZ0VyY0UxQTNFcDB3NGI4aC1PRkZhQXNLVDNsQW9URmY3TkZTMmJsN05icFB5RFp3V3prY0VRVjFsVUhOYXZOaV9VVFhab1FIb1pYT3pOZ2tMeW9lckZqVWs3bEJWWjlKMXJSSW1DaThCdTlaLUZBOGMxWFFxaklEUVhn?oc=5",
-      "published_at": "2026-11-16T13:59:30+00:00",
       "source": "黄金与宏观新闻线索",
       "group": "news",
       "signal": "unknown",
