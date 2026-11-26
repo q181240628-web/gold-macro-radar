@@ -1,6 +1,6 @@
 {
-  "status": "ok",
-  "generated_at": "2026-11-25T22:32:30.378155+00:00",
+  "status": "partial",
+  "generated_at": "2026-11-26T05:04:00.939379+00:00",
   "factors": [
     {
       "id": "DFII10",
@@ -22,7 +22,7 @@
       "url": "https://fred.stlouisfed.org/series/DFII10",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 2
     },
     {
       "id": "DGS2",
@@ -44,7 +44,7 @@
       "url": "https://fred.stlouisfed.org/series/DGS2",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 2
     },
     {
       "id": "DGS10",
@@ -66,7 +66,7 @@
       "url": "https://fred.stlouisfed.org/series/DGS10",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 2
     },
     {
       "id": "DTWEXBGS",
@@ -88,7 +88,7 @@
       "url": "https://fred.stlouisfed.org/series/DTWEXBGS",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 5
+      "freshness_days": 6
     },
     {
       "id": "DCOILWTICO",
@@ -110,7 +110,7 @@
       "url": "https://fred.stlouisfed.org/series/DCOILWTICO",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 2
     },
     {
       "id": "VIXCLS",
@@ -132,7 +132,7 @@
       "url": "https://fred.stlouisfed.org/series/VIXCLS",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 1
+      "freshness_days": 2
     },
     {
       "id": "T10YIE",
@@ -154,7 +154,7 @@
       "url": "https://fred.stlouisfed.org/series/T10YIE",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 0
+      "freshness_days": 1
     },
     {
       "id": "DFEDTARU",
@@ -176,7 +176,7 @@
       "url": "https://fred.stlouisfed.org/series/DFEDTARU",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 0
+      "freshness_days": 1
     },
     {
       "id": "ICSA",
@@ -198,7 +198,7 @@
       "url": "https://fred.stlouisfed.org/series/ICSA",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 4
+      "freshness_days": 5
     },
     {
       "id": "UNRATE",
@@ -220,7 +220,7 @@
       "url": "https://fred.stlouisfed.org/series/UNRATE",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 55
+      "freshness_days": 56
     },
     {
       "id": "PAYEMS",
@@ -242,7 +242,7 @@
       "url": "https://fred.stlouisfed.org/series/PAYEMS",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 55
+      "freshness_days": 56
     },
     {
       "id": "CPIAUCSL",
@@ -264,7 +264,7 @@
       "url": "https://fred.stlouisfed.org/series/CPIAUCSL",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 55
+      "freshness_days": 56
     },
     {
       "id": "PCEPILFE",
@@ -286,218 +286,10 @@
       "url": "https://fred.stlouisfed.org/series/PCEPILFE",
       "source": "FRED（源自美联储/BLS/BEA等）",
       "qualification": "仅比较已公布历史值，不是实际值与分析师一致预期之差。",
-      "freshness_days": 55
+      "freshness_days": 56
     }
   ],
   "news": [
-    {
-      "id": "rss:0bfd8322496b40171a",
-      "title": "Gold market extends slide after U.S. inflation data reinforces rate-hike outlook - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3VwaWtEZ1hWR19qN01iRUlBVmEwVmhmdUJxdkNMS0U5SHVSMy1zU1U1OTRGTFpNd0ZjSmI1ZkRibEItdUpGTWVQVE91c2NwLUhqbW5pS2tUMmZVRVluWWtsWGJXX3laTWtmUDNRZUMwcFRXYzhjd1p3eDV1b3FqTGZhX2RKOWdnMEpJb2hGOA?oc=5",
-      "published_at": "2026-11-25T20:39:33+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:4b46708d4de532665e",
-      "title": "Gold at $8,000 could signal dollar crisis: economist - Mining.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01Z29VRjNyOWxkbWR1dG5CbHNyT1ROUUFBOWFFcllJYjdES24tTDZXazVSMDVKdTBINHhubkF5bzVkYlJOdmJRZjJwT1RhTjdoSVJWa3RoUnQ2aHc0a0cxdWMtTmJadkFhZ0haZ1Q3aU5lSktTOHRnM0ZMTUJNUQ?oc=5",
-      "published_at": "2026-11-25T19:33:46+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:0494b55724cc90eafc",
-      "title": "Gold sinks despite falling US yields as core PCE hits 3.3% - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3lNSXJsTVNvNVpGT08tV2pLNV9RQ2MwSnZvbU5Nd2l6OWY2Y1lNQTZSRTExTkZCdnFCLU1ScHY2RXRlQU5OQnF2eEJWRnVOd1dWejI1eng5RHdJMi15YlhMb3A0V2loMjExN1FkLTd4X2hxTHI1MFpQSDVGQ1lYbWhWV29tekhwVW51NlNLeGt5Z1MwRjZNSEplTUdnWndy?oc=5",
-      "published_at": "2026-11-25T19:33:39+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:782646cfed386cd506",
-      "title": "Gold falls to more than one-year low after data shows US inflation rose further - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ0dtd1VpUVlGRU5ScWFLdVNOeEk1SFV3X25ISDZGNnQ2cFZJTzlrNk9oaDFwVXdTbzZRbHB6TmRCUU9vUUd2cUNjSTQ3OGE3MkRVMW5iQzVndW9PZ3NvSW55MlhmNjJRUEkydXhuX01VcXdlWmdYeDNqeTB3WU1Jc0Q0SjJYeTktU09LYWVmWVp5NWNnQWtIRTdWdUpZZTFBSlBmTUxiUy1WRFItOHIxbHJKUzJ2UHRQd2p3a0t4T2FMdV9SOFdZSDE4YjNDUENjY21TdzlrLUpyclM2VThPUWtkVQ?oc=5",
-      "published_at": "2026-11-25T19:27:58+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:bec3e3637b2a397387",
-      "title": "Gold, Silver Extend Losses As Investors Reassess Rate Outlook - Forbes Middle East",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY01MUjhCYnkxc0k2Q3VGZ2N2dmViODRyV01TNGhrUTBvQmRlTmpzbFF6ZkJwNElSRUVyYTJpay1yWU9KSGFGbmdsWWd1RGV2eC04SWpfOUV0VEo1WnV0OVVNZ3Vnam1PNnczM1lYY0VsZE5LaEtxVTJmOXcxTGE0UjFGX1U5empzcHMyQi1GMnlWRHlqOTRKc3UwZ09VTkphMWtQSlB2NA?oc=5",
-      "published_at": "2026-11-25T18:57:56+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:d36fdf5bbf31c3b6ae",
-      "title": "Expectation of rising US inflation keeps pressure on gold through currency and policy channels - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHl2S2xfR3VwYU1lV1FVRFVJUGxnYUtIRTdqS0RFY3dqRmxjc0hJVWFCbHRVaEphd0FKQ2cydnBna2swRzNoVzFDZHM4Q2tyYnNpenJyd0xkRGVJUndkUElXWGF4WDI0N09Fa1Z1dWJ4QUZ0MTByTEU3bFJIVVVyY0o5WUlsWW4wMXF3WA?oc=5",
-      "published_at": "2026-11-25T17:42:31+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:e92a5085a1100e9694",
-      "title": "Gold falls 3% to more than one-year low after data shows US inflation rose further - The Korea Times",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2FPR09XbU5JcFJMeXpCTG1aTDhHUHd3d0xheW1JOTFfVk5uUTZkbm1pNUJ6cGFDa1czc2pwOG9hN25rbmVwcXhuN1NxcjNmYzdtZXE4ZUtvVnlCT1RsNWRHeGtvM2lQQ2p1VWUtelJrUndJRG8yMk1uZkNSTUNIVl9DRnVuNFNPeXgzUUxoc3RIMGVMZDNUYmF2aUVTMVI2R210YU43TUQ1TDBUcXZYejZmUF94MVdMS1BhUmNLY0NsTTDSAcgBQVVfeXFMTTBNVGd0VXpUWWVrRHRQT09PUzNqYVQ3VERnRXVVaWhWWlR2eWZCS2tTcV8ycDU4VWZscTFabFZMQU1FME8xd1BkcXc3MkJ3N0k0bTdPN2Qxd19KRl9UcGtoMjUteUNPbngtNHJxUEdqVW5Ea1o2SW03dmdIUWxFR1BGbm1GQlVWVTNCSVpKNk5UT1JGOEZtM3ZrWldOa04zbzZrMHF6QS1lUnc3TGNLaFBDZ2RMVUs4d0k5bmtJWTNDc085SmhJNkM?oc=5",
-      "published_at": "2026-11-25T16:46:00+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:0cbd8d0e55df01d9bf",
-      "title": "Gold Holds Steady Ahead of US Inflation Data - ASHARQ AL-AWSAT English",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRktDX0Fxa0F5U0hLRzQ0by0wREpYeGJFazIxN2YycDdZQUpGSHhTcVVNYlU4b1Y3UVJEREtlbktkeVZZaXB5cl9yTF8wV2dKSDR2aGdULWl6eE9vU05mWExzTDJwdVd2VDFIcExXSzJiMnhWNjh5TWxZS3ptT3NhZERlVHdaaVVWc2hhUXh3?oc=5",
-      "published_at": "2026-11-25T16:42:06+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:f476a6776e93019b34",
-      "title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkQxbTNiWEs3QmZBV1ZoVV9Nb1kyM1dUSmRYT2RWYkQ0eTV6cktjakV3OXRjalVYSkJ2Q2FBdFhUbHl6V3VBTHFzbGJFU1RacTRrUGxFWHU2Y0R3OXZKXzlaQUVPc3Z3TjJ1MkRnVGNwMlpHYzhwbVkwRTFLbVc0ZTkxa3ExQU1iYTcxU3Q4czZTVVhDRE9iYTFCak1aZ3BnQ1ZGbldMSGdaQ2szYXNQX1FJTQ?oc=5",
-      "published_at": "2026-11-25T16:25:48+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:2be908eac6858a9c23",
-      "title": "Gold Forecast: Gold Loses $3500 as Tariff Fears and Inflation Revive Rate Concerns - FOREX.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODB3cUpwRmVIYWhGRUhCbVdhejZGaXF3MHB4OHpSNEdsU24yeGxLSWNzdDAyNDZrak5UdkxBOXVDM3QxVkcySzk4WmpvU2lpekRLT3RFT2VFRXA3d1FwMWRsTU1OWURJS29BVTV2STFsaW90LTU1LWpfRzBqVXk1dVdjY1FodUdkeVIyY0g4eTd1empYRlVzeEl1UEMzLXZRWENTWlYyb2paa0dMN0JsX0tkY0hoNU9pR25VNGlBbUlGQ0Nsa2fSAdIBQVVfeXFMTVJKOHF4UVkwc3BZMkRqaWU0X3ZLTlhkSjFSYXRfZUJyUjJvMG1weEZUNjNiY0tWS1k1Tl9hVTVxQU5ZVXg5MXBvZUV0eGlVbzQ4d0xUdFBydWFfSk9xRFpEUkxLNVlvSlJ3SVgwN0dSVy1BSUhLUEh4Mk1Rb09FY1V5RzJtUHBNSUJDWW1NSmQ3QmZLSEhJUDVCdkRtS3JTQ0JlaXpqdGtZTnctWVdIblV5WnM0eXM0cDhjdzdpeTVyLUd2TU1sSDJzYms0a1F3WS13?oc=5",
-      "published_at": "2026-11-25T15:33:11+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:1c1701d83594e191ad",
-      "title": "Gold Falls Below $3,500 to Hit Nearly 15-Month Low: What Is Causing Gold Prices to Fall Again? - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV19kUDREYUlJUFVvQlZUVEt5RzRzSnBUajRmblN3bm11b0s3ZGh6MExKSjE2SzJEZmNhSngwYjdFeGV1eTNqRzJnQ04zNHZVZlpMTXNSVDZjeTJOMmd0QWRJWG5rRkZBdXdoNHZud3lQU2hOdVJ4ZGdnRTk2SUZVZDc0bnV1OThvN2JuenZpd3gtMGRaQURlaVVNYmJfNk0zRFB6NHJCaXU3Z2NmekdpN3Z1UW9ncHdTR0dvSHdyVXQ3a2VCNk1HMWY0d1RYX2ZUejk4Vm5B?oc=5",
-      "published_at": "2026-11-25T15:22:41+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:5bf5fddeba4bcb3867",
-      "title": "Gold sinks below $3,500 as hawkish Fed bets and equity rout fuel selling - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSW9TOGtrdmlBQjhmamwwckxsS255UEhsOE5qUzV5VC1wNzBrZmJwalFpMWFmTmozcmw2eFNqZVJ5T2JXSmVJLUJXZnNiTUZHOXg2Z3pSREFidEhNb21wX2VWOTBXdEtuQXhaME9GOG1BZFpTRzAzZTFpV1ZhbHlBY1FrSEpDc3AxWE1jSExuMXRBVGl1WlRESUdmdjh4WTJaRGJhUjF3NGRuWThJYmlBM1RTUlhTdw?oc=5",
-      "published_at": "2026-11-25T15:10:06+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:44786b3751e87f7939",
-      "title": "Gold Falls Below $3,500 Threshold as U.S. PCE Data Reinforces Rate-Hike Expectations, Tech Selloff Triggers Liquidity Squeeze - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Jb1JWQU9yZExLUjM5LWc2Z1pmMXBsU0ZDZkdOOXliaDZEVGwtd3B2YnFGTFRlWDJWU3Z0bVNEc3BPLTVjNzliLVFfTTlOeTBneVYxcW84ZkRBT1Fld05iVmtONEZpdVg1X3ZqZ01SVW9makFrdGc?oc=5",
-      "published_at": "2026-11-25T14:35:00+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:d150a37e6e85ed971d",
-      "title": "Gold, silver remain under pressure as strong GDP, sticky inflation reinforce Fed hike bets - Kitco AM Report - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHlZajVKekE3OWVDWV9BSndmOXNXRGVSdjFnQmwxNnhtaFktelk2OTJpcGx1TXJUM3VjZmVFSXZjcGZMbmVnNUJ3STlsNE1TWmZzTHBYb0QyalB1eFRsbHBNMDRDSkltT09fazNnanNCbGlfOEhoMXNSMnR0TndWMXVWX1ptYm1KS2JOYVBrOENvWDhfVko2Wk5DbXhSb0szZGN6LVFmbXRxbkZyNDItVzYzSWpkWXQ1d0hwMmRn?oc=5",
-      "published_at": "2026-11-25T14:01:45+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:457316642622f22549",
-      "title": "Gold prices drop another 1% as US Q3 GDP revised to 4.3% with contained PCE inflation - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmZFZ1UwZHIyQTFQTTdpSUYzWjFQUElSajVhaXRrZkFzckFGY1N1SURYTjZERzM2d3VBZmpSY0FBN3Vzekl1MEhiNVFxVVIxZG8tXzNSbzdaT0h6dUVTUF9ZQ0V2aEpCcDFaaEdOb3F0T1dSVG9Nd1BSclNETTNndEEyTzBDODZDLVdhMGJBczRrY1BBSkFieGdka0tVTVZMRzcwRVZKNGFQXzdtQUt6Y1MzSlBjM2k3?oc=5",
-      "published_at": "2026-11-25T13:51:16+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:75d40aab1df1f210af",
-      "title": "PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmlzQWFUTkt4SXk0RTNNSzdudnc0X0stelRZTVhSZ0Y0SFRpLVJDU1h4TUJuOHpDWVYySUx0ZzhxWi1ITHFEdXpfRjk5c09UaXpySXhDT3ljT2g1SXU2RGtsb2pFblVJOVpFNENHNUFiekFURFpic0RmRUJCREltcUsxM1Jtcmp6eWpTVzJQaDBxM1pReDdtUFZ4UnBvQ1ZYUXlhcTlBaHlxd3BfV2lZ?oc=5",
-      "published_at": "2026-11-25T13:46:56+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
     {
       "id": "rss:66324d6e4c8e70c4f9",
       "title": "Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas",
@@ -507,84 +299,6 @@
       "group": "policy",
       "signal": "unknown",
       "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:b4cadc2fc7aaa7deea",
-      "title": "EUR/USD, Gold Forecast: Two trades to Watch - FOREX.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVNNeF8yNU9qNnNjTEVkb2FBZlVuNFpGb0Q1UENWTzVfaW50QWVuQ0VvVkJmdUY4VFNHclBoQXhOcl9lLWJGVHBrLVlrdVh5VnROT3pZb1dvZ0M5X2xtUWZVNmU1bmFLTEVzWGFYMHhVUl84eWR5NTZVSk1qbThLQjFGbEV1dGtWUnlHZHgzX0liMmpfbWh2b1VvM2bSAagBQVVfeXFMTUVreDN3cF9sUHA3bzBKaVhZVERkS3JIR3ZVd3VWR3V2Zi1ZeTQ5QWpyTEVIaFc1SnoybWdrdFJ5ZURBSDk4bFhzZmNKNEFCZ0l6Y3hwZjZYTEU0WGZJZHBlMGZ3U1lyRVBCX090ald3T1B5VF83a2xCRm9hLTZ6VUc4RXluemMtX01WaWVpWXdBN3NoU0t6bk1iVTJtYndiS09aSkptclR0?oc=5",
-      "published_at": "2026-11-25T10:21:08+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:ba8515fc50fd6f5af1",
-      "title": "Gold Trades Near 15-Month Low as Federal Reserve Rate Hike Expectations Weigh on Prices - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHdZdzk1ek1WVXB1SDBtU0NhS3JsT3prcVdiTTRaWnh5NmRNSXQydHZfQkpXT0dVWDFXSmV5RGRNQ0VoZGhIaEozeHFacDlYNDBtem5pLWY1R29tMDNhV3JibE9VSlFLUUI2UUp5VExkYm1UM0FDM1BIbjRuNUdOZ1hHbWxoSFR6aVRGbEFIQXZWMXVSQktyUnlqNA?oc=5",
-      "published_at": "2026-11-25T09:58:15+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:4b2114b9c27f651939",
-      "title": "Gold Drifts Toward Key Support as Dollar, Fed Weigh - TradingPedia",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTFKLXdaaEhTSEp1Y2RXMW04UjNoRnVFR0JaQ2h1eFhFdXVtTERkX2Eyc0V2NDEtTEFXNWpaYnhmY0JsX2VGamx3UHNxZVRQTUtkRHNNekw1c1RNZUtlTnFEcGVHS1BYamYySUpNZkpGX01oOFU3ZFVrLUFDX2ZEOU9rbFc0TG5rbGRHZUlrSTNnZGRhdFE?oc=5",
-      "published_at": "2026-11-25T08:07:31+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:fcdab540855df660a0",
-      "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcXRzdlI2OHBPUHRVRTFuTzVzYzc3N092aERUaG5YcW9BWTAzQUgxUEtaeVRJVlRBM1hVYUoxVEJ4bnVxbjFialMwSFZReUZZSnVlMm9nR0Q5ZjUteXVtMlIwVXpxTjhUSEtFUFYyekgybkhpWXdyZXRUTzRfem_SAYQBQVVfeXFMTjVXb2YzM0szVk81WmZKaTdDZUJhZ2lrUktxbjhFX2lZZGlCODNJLWdicEM3RU5YNDVrWUxNTHFPZlhubVdnUU14N3lZNjh1eEgybTVvSENYaVNveTJfZ2NMUVRjMjdJNXczMzlJWEdpV3pMRlI5OUVXaEg1bnBVZnM3NVdM?oc=5",
-      "published_at": "2026-11-25T05:08:05+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:8dc702ed1dde6988e8",
-      "title": "Gold Price Forecast: Will US PCE inflation data rescue XAU/USD buyers? - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2ZWdWZJQ3ZmNUdBVi1sWDBkSmc1OHhaaTc2MVdUVlFKX2R3Z3o4V19DSWV2Uk5ickhremxMMmxTNk41c3k1S2M0LVhSMWotQnV1ZTZsMi14QXl4V1ozWk81QS1RM0Jjb2NQQ0VybHVTQ2trTjcycWlwMklWclVuSFVWRlF2WFlaU1VLZXBZOXlKcHJ1RWZXUnJ2TmZpWnZFYVM4X0FscTVWdGg3MGg0Ym9IckhsQQ?oc=5",
-      "published_at": "2026-11-25T04:11:49+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
-      "confidence": "低",
-      "kind": "news",
-      "classification_basis": "标题规则初判，不代表已验证报道正文"
-    },
-    {
-      "id": "rss:c824e9e7d84fb2895d",
-      "title": "Gold falls to more than one-year low after data shows US inflation rose further - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
-      "published_at": "2026-11-25T00:49:00+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
-      "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -603,14 +317,144 @@
       "classification_basis": "标题规则初判，不代表已验证报道正文"
     },
     {
-      "id": "rss:ec6e706ec336f51dbc",
-      "title": "Gold falls 2%, silver slides 5.3% ahead of US inflation data - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkI4TGhyckpLeVVoQUgyaXNDMng5Z3JBS29CRk13TVRwdjBFZUc5RzdPUC1vZlFwbWZtdXhBTmxfeDFJWlI0UUI2VS1xcVhfMFNZY2NVeVR0M2ZWRWl4X1B3dzVOWUtRSkw4TzVtSUxvRHRKMXVlR2hHeVBOamVXd1VscGNQWVdTUTV2UGd6aGtFZEcycXVVdw?oc=5",
-      "published_at": "2026-11-24T17:18:08+00:00",
-      "source": "黄金与宏观新闻线索",
-      "group": "news",
+      "id": "rss:1382db47fe7d15263f",
+      "title": "Cook, The U.S. Economy in Global Context",
+      "link": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+      "published_at": "2026-11-20T17:15:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
       "signal": "unknown",
-      "reason": "数据或政策标题不足以判断相对市场预期的意外程度。需看实际值、预期、修正。",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:3334ec9021045b104e",
+      "title": "Waller, Opening Remarks",
+      "link": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+      "published_at": "2026-11-20T13:25:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:e570678e5e4af5425f",
+      "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
+      "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
+      "published_at": "2026-11-19T14:25:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:069d49d95682efcb23",
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "published_at": "2026-11-18T19:00:00+00:00",
+      "source": "美联储货币政策公告",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:d85f8a3f66a8503f69",
+      "title": "Barr, Investing in America’s Underserved Communities",
+      "link": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
+      "published_at": "2026-11-18T18:35:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:c18628c1b855922ede",
+      "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
+      "link": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+      "published_at": "2026-11-17T14:10:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:9edfd9e13a9f13db6d",
+      "title": "Warsh, Opening Remarks",
+      "link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:a37c8fdd62b23f65e1",
+      "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+      "link": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+      "published_at": "2026-11-16T10:00:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:4909338736a71b2f2c",
+      "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles  and the Macroeconomy",
+      "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+      "published_at": "2026-11-14T00:00:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:d87e88342dbc7d64c0",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "published_at": "2026-11-12T17:45:00+00:00",
+      "source": "美联储货币政策公告",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
+      "confidence": "低",
+      "kind": "news",
+      "classification_basis": "标题规则初判，不代表已验证报道正文"
+    },
+    {
+      "id": "rss:9a5720b4469eaeb209",
+      "title": "Barr, American Inequality and the Future of AI",
+      "link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+      "published_at": "2026-11-12T15:00:00+00:00",
+      "source": "美联储讲话与证词",
+      "group": "policy",
+      "signal": "unknown",
+      "reason": "当前仅抓取标题，未核对全文或市场一致预期。",
       "confidence": "低",
       "kind": "news",
       "classification_basis": "标题规则初判，不代表已验证报道正文"
@@ -626,8 +470,10 @@
   "coverage": {
     "received_series": 13,
     "expected_series": 13,
-    "working_feeds": 5,
+    "working_feeds": 4,
     "expected_feeds": 5
   },
-  "errors": []
+  "errors": [
+    "RSS 黄金与宏观新闻线索: HTTPError: HTTP Error 503: Service Unavailable"
+  ]
 }
